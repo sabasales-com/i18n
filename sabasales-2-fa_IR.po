@@ -1,0 +1,7353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: snapycloud <infobox@snapycloud.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
+"X-Generator: Poedit 2.3\n"
+
+msgctxt "Admin.labels"
+msgid "Workflows"
+msgstr "گردش کار"
+
+msgctxt "Admin.labels"
+msgid "Flowcharts"
+msgstr "فلوچارت"
+
+msgctxt "Admin.labels"
+msgid "Processes"
+msgstr "عملیات"
+
+msgctxt "Admin.labels"
+msgid "Business Process Management"
+msgstr "مدیریت فرآیند تجارت"
+
+msgctxt "Admin.labels"
+msgid "Report Filters"
+msgstr "فیلترهای گزارشات"
+
+msgctxt "Admin.labels"
+msgid "Report Panels"
+msgstr "پنل‌های گزارشات"
+
+msgctxt "Admin.descriptions"
+msgid "Configure Workflow rules."
+msgstr "گردش کار را پیکربندی کنید."
+
+msgctxt "Admin.descriptions"
+msgid "Definitions of business processes."
+msgstr "تعاریف فرآیندهای تجاری."
+
+msgctxt "Admin.descriptions"
+msgid "Instances of business processes."
+msgstr "موارد فرآیندهای تجاری."
+
+msgctxt "Admin.descriptions"
+msgid "Custom list view filters based on reports."
+msgstr " لیست مشاهده سفارشی بر اساس ‫فیلترهای گزارشها."
+
+msgctxt "Admin.descriptions"
+msgid "Detail view panels showing report results."
+msgstr "پانل‌های نمایش جزئیات که نتایج گزارش را نشان می دهند."
+
+msgctxt "Admin.messages"
+msgid ""
+"New Advanced Pack version {latestVersion} is available. It can be downloaded "
+"on the customer portal."
+msgstr ""
+
+msgctxt "Admin.templates"
+msgid "Report Grid-1"
+msgstr ""
+
+msgctxt "Admin.templates"
+msgid "Report Grid-2"
+msgstr ""
+
+msgctxt "Admin.templates"
+msgid "Report List"
+msgstr ""
+
+msgctxt "BpmnFlowNode.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "BpmnFlowNode.fields"
+msgid "Processed At"
+msgstr ""
+
+msgctxt "BpmnFlowNode.fields"
+msgid "Element Type"
+msgstr ""
+
+msgctxt "BpmnFlowNode.fields"
+msgid "Element"
+msgstr ""
+
+msgctxt "BpmnFlowNode.options.status"
+msgid "Created"
+msgstr ""
+
+msgctxt "BpmnFlowNode.options.status"
+msgid "Pending"
+msgstr ""
+
+msgctxt "BpmnFlowNode.options.status"
+msgid "In Process"
+msgstr ""
+
+msgctxt "BpmnFlowNode.options.status"
+msgid "Processed"
+msgstr ""
+
+msgctxt "BpmnFlowNode.options.status"
+msgid "Rejected"
+msgstr ""
+
+msgctxt "BpmnFlowNode.options.status"
+msgid "Failed"
+msgstr ""
+
+msgctxt "BpmnFlowchart.labels"
+msgid "Create Flowchart"
+msgstr ""
+
+msgctxt "BpmnFlowchart.labels"
+msgid "Hand tool"
+msgstr ""
+
+msgctxt "BpmnFlowchart.labels"
+msgid "Create Event tool"
+msgstr ""
+
+msgctxt "BpmnFlowchart.labels"
+msgid "Create Activity tool"
+msgstr ""
+
+msgctxt "BpmnFlowchart.labels"
+msgid "Connect tool"
+msgstr ""
+
+msgctxt "BpmnFlowchart.labels"
+msgid "Erase tool"
+msgstr ""
+
+msgctxt "BpmnFlowchart.labels"
+msgid "Full Screen"
+msgstr ""
+
+msgctxt "BpmnFlowchart.labels"
+msgid "Processes"
+msgstr ""
+
+msgctxt "BpmnFlowchart.labels"
+msgid "Data"
+msgstr ""
+
+msgctxt "BpmnFlowchart.fields"
+msgid "Is Active"
+msgstr ""
+
+msgctxt "BpmnFlowchart.fields"
+msgid "Target Entity Type"
+msgstr ""
+
+msgctxt "BpmnFlowchart.fields"
+msgid "Has Start Event of None type"
+msgstr ""
+
+msgctxt "BpmnFlowchart.links"
+msgid "Processes"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Conditional Start Event"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Timer Start Event"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Start Event"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Timer Intermediate Event (Catching)"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Conditional Intermediate Event (Catching)"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "End Event"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Terminate End Event"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Exclusive Gateway"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Inclusive Gateway"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Parallel Gateway"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Event Based Gateway"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Send Message Task"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Script Task"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Business Rule Task"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "User Task"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Task"
+msgstr ""
+
+msgctxt "BpmnFlowchart.elements"
+msgid "Sequence Flow"
+msgstr ""
+
+msgctxt "BpmnFlowchart.presetFilters"
+msgid "Manually Startable"
+msgstr ""
+
+msgctxt "BpmnFlowchart.presetFilters"
+msgid "Active w/ None Start Event"
+msgstr ""
+
+msgctxt "BpmnFlowchart.presetFilters"
+msgid "Active"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Text"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Trigger Type"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Timer Parameters"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Default Flow"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "From"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "To"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Reply-To"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "From Email Address"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "To Email Address"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Reply-To Email Address"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "To Teams"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "To Users"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "To Contacts"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Email Template"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Do not store sent email"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Actions"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Formula (script)"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Action Type"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Target User"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Assignment"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Target Team"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Target User Position"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Start Direction"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Target Report"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Scheduling"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Message Type"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.fields"
+msgid "Can be Failed"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.labels"
+msgid "Conditions"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.labels"
+msgid "Actions"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.labels"
+msgid "Field"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.labels"
+msgid "Flows Conditions"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.tooltips"
+msgid "Records from the list report will be passed to the new process."
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.tooltips"
+msgid ""
+"Crontab notation. Defines frequency. UTC timezone.\n"
+"\n"
+"*/5 * * * * - every 5 minutes\n"
+"\n"
+"0 */2 * * * - every 2 hours\n"
+"\n"
+"30 1 * * * - at 01:30 once a day\n"
+"\n"
+"0 0 1 * * - on the first day of the month"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "System"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "Current User"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "Specified Email Address"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "Assigned User"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "Followers"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "Specified Contacts"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "Specified Users"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "Specified Teams"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "Followers excluding Assigned User"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "User assigned to Process"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "Target Record"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.emailAddress"
+msgid "None"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.triggerType"
+msgid "After record created"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.triggerType"
+msgid "After record saved"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.triggerType"
+msgid "Sequential"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.timerShiftOperator"
+msgid "plus"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.timerShiftOperator"
+msgid "minus"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.timerShiftUnits"
+msgid "minutes"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.timerShiftUnits"
+msgid "hours"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.timerShiftUnits"
+msgid "days"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.timerShiftUnits"
+msgid "months"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.timerBase"
+msgid "Moment when event triggered"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.timerBase"
+msgid "Calculated by formula"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.actionType"
+msgid "Approve"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.actionType"
+msgid "Review"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.assignmentType"
+msgid "None"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.assignmentType"
+msgid "User assigned to Process"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.assignmentType"
+msgid "Specified User"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.assignmentType"
+msgid "Round-Robin"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.assignmentType"
+msgid "Least-Busy"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.startDirection"
+msgid "Auto"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.startDirection"
+msgid "Right"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.startDirection"
+msgid "Down"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.startDirection"
+msgid "Up"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.startDirection"
+msgid "Left"
+msgstr ""
+
+msgctxt "BpmnFlowchartElement.options.messageType"
+msgid "Email"
+msgstr ""
+
+msgctxt "BpmnProcess.labels"
+msgid "Start Process"
+msgstr ""
+
+msgctxt "BpmnProcess.labels"
+msgid "Stop Process"
+msgstr ""
+
+msgctxt "BpmnProcess.labels"
+msgid "User Tasks"
+msgstr ""
+
+msgctxt "BpmnProcess.labels"
+msgid "Flowcharts"
+msgstr ""
+
+msgctxt "BpmnProcess.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "BpmnProcess.fields"
+msgid "Target Entity Type"
+msgstr ""
+
+msgctxt "BpmnProcess.fields"
+msgid "Target"
+msgstr ""
+
+msgctxt "BpmnProcess.fields"
+msgid "Created Entities Data"
+msgstr ""
+
+msgctxt "BpmnProcess.fields"
+msgid "Flowchart Data"
+msgstr ""
+
+msgctxt "BpmnProcess.fields"
+msgid "Flowchart"
+msgstr ""
+
+msgctxt "BpmnProcess.fields"
+msgid "Flowchart (visualization)"
+msgstr ""
+
+msgctxt "BpmnProcess.fields"
+msgid "Flowchart Elements"
+msgstr ""
+
+msgctxt "BpmnProcess.fields"
+msgid "Variables"
+msgstr ""
+
+msgctxt "BpmnProcess.fields"
+msgid "Ended At"
+msgstr ""
+
+msgctxt "BpmnProcess.fields"
+msgid "Start Element"
+msgstr ""
+
+msgctxt "BpmnProcess.links"
+msgid "Flowchart"
+msgstr ""
+
+msgctxt "BpmnProcess.links"
+msgid "Target"
+msgstr ""
+
+msgctxt "BpmnProcess.links"
+msgid "Flow Log"
+msgstr ""
+
+msgctxt "BpmnProcess.links"
+msgid "Process User Tasks"
+msgstr ""
+
+msgctxt "BpmnProcess.options.status"
+msgid "Created"
+msgstr ""
+
+msgctxt "BpmnProcess.options.status"
+msgid "Started"
+msgstr ""
+
+msgctxt "BpmnProcess.options.status"
+msgid "Ended"
+msgstr ""
+
+msgctxt "BpmnProcess.options.status"
+msgid "Paused"
+msgstr ""
+
+msgctxt "BpmnProcess.options.status"
+msgid "Stopped"
+msgstr ""
+
+msgctxt "BpmnProcess.presetFilters"
+msgid "Actual"
+msgstr ""
+
+msgctxt "BpmnProcess.presetFilters"
+msgid "Ended"
+msgstr ""
+
+msgctxt "BpmnUserTask.labels"
+msgid "Resolve"
+msgstr ""
+
+msgctxt "BpmnUserTask.fields"
+msgid "Action Type"
+msgstr ""
+
+msgctxt "BpmnUserTask.fields"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "BpmnUserTask.fields"
+msgid "Target"
+msgstr ""
+
+msgctxt "BpmnUserTask.fields"
+msgid "Process"
+msgstr ""
+
+msgctxt "BpmnUserTask.fields"
+msgid "Is Resolved"
+msgstr ""
+
+msgctxt "BpmnUserTask.fields"
+msgid "Resolution Note"
+msgstr ""
+
+msgctxt "BpmnUserTask.fields"
+msgid "Is Canceled"
+msgstr ""
+
+msgctxt "BpmnUserTask.links"
+msgid "Process"
+msgstr ""
+
+msgctxt "BpmnUserTask.links"
+msgid "Target"
+msgstr ""
+
+msgctxt "BpmnUserTask.links"
+msgid "Flow Node"
+msgstr ""
+
+msgctxt "BpmnUserTask.options.actionType"
+msgid "Approve"
+msgstr ""
+
+msgctxt "BpmnUserTask.options.actionType"
+msgid "Review"
+msgstr ""
+
+msgctxt "BpmnUserTask.options.actionType"
+msgid "Accomplish"
+msgstr ""
+
+msgctxt "BpmnUserTask.options.resolution"
+msgid "None"
+msgstr ""
+
+msgctxt "BpmnUserTask.options.resolution"
+msgid "Approved"
+msgstr ""
+
+msgctxt "BpmnUserTask.options.resolution"
+msgid "Rejected"
+msgstr ""
+
+msgctxt "BpmnUserTask.options.resolution"
+msgid "Reviewed"
+msgstr ""
+
+msgctxt "BpmnUserTask.options.resolution"
+msgid "Completed"
+msgstr ""
+
+msgctxt "BpmnUserTask.options.resolution"
+msgid "Canceled"
+msgstr ""
+
+msgctxt "BpmnUserTask.presetFilters"
+msgid "Actual"
+msgstr ""
+
+msgctxt "BpmnUserTask.presetFilters"
+msgid "Resolved"
+msgstr ""
+
+msgctxt "BpmnUserTask.presetFilters"
+msgid "Canceled"
+msgstr ""
+
+msgctxt "DashletOptions.fields"
+msgid "Report"
+msgstr ""
+
+msgctxt "DashletOptions.fields"
+msgid "Summation Column"
+msgstr ""
+
+msgctxt "DashletOptions.fields"
+msgid "Display Only Total"
+msgstr ""
+
+msgctxt "DashletOptions.fields"
+msgid "Display Total"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Workflow"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Report"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Report Category"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Workflow Log Record"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Process Flowchart"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Process"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Process User Task"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Report Filter"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Report Panel"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Workflows"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Reports"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Report Categories"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Workflows Log"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Process Flowcharts"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Processes"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Process User Tasks"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Report Filters"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Report Panels"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "Report"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "Process User Tasks"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Create Report"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Run"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Total"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "-Empty-"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Parameters"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Filters"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Chart"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "List Report"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Grid Report"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "days"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "never"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Get Csv"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Email Sending"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "View Report"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Report"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "AND"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "OR"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "NOT"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Complex expression"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Having"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Add AND group"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Add OR group"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Add NOT group"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Add Having group"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Add Complex expression"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Columns"
+msgstr ""
+
+msgctxt "Report.labels"
+msgid "Send Email"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Type"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Entity Type"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Group by"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Columns"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Order by"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Filters"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Runtime Filters"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Chart Type"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Interval"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Time"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Users"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Day"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Month"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Days"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Don't send if report is empty"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Chart Colors"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Chart Color"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "List Order"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Column"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Format"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Category"
+msgstr ""
+
+msgctxt "Report.fields"
+msgid "Apply ACL"
+msgstr ""
+
+msgctxt "Report.tooltips"
+msgid "Users report result will be sent to"
+msgstr ""
+
+msgctxt "Report.tooltips"
+msgid "Custom colors for specific groups."
+msgstr ""
+
+msgctxt "Report.tooltips"
+msgid "Report results will depend on the user's access."
+msgstr ""
+
+msgctxt "Report.functions"
+msgid "Count"
+msgstr ""
+
+msgctxt "Report.functions"
+msgid "Sum"
+msgstr ""
+
+msgctxt "Report.functions"
+msgid "Avg"
+msgstr ""
+
+msgctxt "Report.functions"
+msgid "Min"
+msgstr ""
+
+msgctxt "Report.functions"
+msgid "Max"
+msgstr ""
+
+msgctxt "Report.functions"
+msgid "Year"
+msgstr ""
+
+msgctxt "Report.functions"
+msgid "Quarter"
+msgstr ""
+
+msgctxt "Report.functions"
+msgid "Month"
+msgstr ""
+
+msgctxt "Report.functions"
+msgid "Day"
+msgstr ""
+
+msgctxt "Report.functions"
+msgid "Week"
+msgstr ""
+
+msgctxt "Report.functions"
+msgid "Fiscal Year"
+msgstr ""
+
+msgctxt "Report.orders"
+msgid "ASC"
+msgstr ""
+
+msgctxt "Report.orders"
+msgid "DESC"
+msgstr ""
+
+msgctxt "Report.orders"
+msgid "LIST"
+msgstr ""
+
+msgctxt "Report.options.chartType"
+msgid "Bar (horizontal)"
+msgstr ""
+
+msgctxt "Report.options.chartType"
+msgid "Bar (vertical)"
+msgstr ""
+
+msgctxt "Report.options.chartType"
+msgid "Pie"
+msgstr ""
+
+msgctxt "Report.options.chartType"
+msgid "Line"
+msgstr ""
+
+msgctxt "Report.options.emailSendingInterval"
+msgid "None"
+msgstr ""
+
+msgctxt "Report.options.emailSendingInterval"
+msgid "Daily"
+msgstr ""
+
+msgctxt "Report.options.emailSendingInterval"
+msgid "Weekly"
+msgstr ""
+
+msgctxt "Report.options.emailSendingInterval"
+msgid "Monthly"
+msgstr ""
+
+msgctxt "Report.options.emailSendingInterval"
+msgid "Yearly"
+msgstr ""
+
+msgctxt "Report.options.emailSendingSettingDay"
+msgid "Last day of month"
+msgstr ""
+
+msgctxt "Report.options.type"
+msgid "Grid"
+msgstr ""
+
+msgctxt "Report.options.type"
+msgid "List"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "--NO-FUNCTION--"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "DATE"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "MONTH"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "YEAR"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "QUARTER"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "DAYOFWEEK"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "HOUR"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "MINUTE"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "LOWER"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "UPPER"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "TRIM"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "LENGTH"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "WEEK (Sunday)"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "WEEK (Monday)"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "COUNT"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "SUM"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "AVG"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "MAX"
+msgstr ""
+
+msgctxt "Report.options.function"
+msgid "MIN"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Equals"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Not Equals"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Greater Than"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Less Than"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Greater Than or Equals"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Less Than or Equals"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "In"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Not In"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Is True"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Is False"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Is Null"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Is Not Null"
+msgstr ""
+
+msgctxt "Report.options.operator"
+msgid "Like"
+msgstr ""
+
+msgctxt "Report.options.exportFormat"
+msgid "CSV"
+msgstr ""
+
+msgctxt "Report.options.exportFormat"
+msgid "XLSX (Excel)"
+msgstr ""
+
+msgctxt "Report.messages"
+msgid "Count should not be greater than {maxCount}"
+msgstr ""
+
+msgctxt "Report.messages"
+msgid ""
+"Group by one or two columns and see summations. Can be displayed as a chart."
+msgstr ""
+
+msgctxt "Report.messages"
+msgid "Simple list of records which meet filters criteria."
+msgstr ""
+
+msgctxt "Report.presetFilters"
+msgid "List"
+msgstr ""
+
+msgctxt "Report.presetFilters"
+msgid "Grid"
+msgstr ""
+
+msgctxt "Report.presetFilters"
+msgid "List (Targets)"
+msgstr ""
+
+msgctxt "Report.presetFilters"
+msgid "List (Accounts)"
+msgstr ""
+
+msgctxt "Report.presetFilters"
+msgid "List (Contacts)"
+msgstr ""
+
+msgctxt "Report.presetFilters"
+msgid "List (Leads)"
+msgstr ""
+
+msgctxt "Report.presetFilters"
+msgid "List (Users)"
+msgstr ""
+
+msgctxt "Report.errorMessages"
+msgid "Error"
+msgstr ""
+
+msgctxt "Report.errorMessages"
+msgid "No chart selected for the report."
+msgstr ""
+
+msgctxt "Report.errorMessages"
+msgid "Select a report in the dashlet options."
+msgstr ""
+
+msgctxt "Report.filtersGroupTypes"
+msgid "OR"
+msgstr ""
+
+msgctxt "Report.filtersGroupTypes"
+msgid "AND"
+msgstr ""
+
+msgctxt "Report.filtersGroupTypes"
+msgid "NOT"
+msgstr ""
+
+msgctxt "Report.filtersGroupTypes"
+msgid "Having"
+msgstr ""
+
+msgctxt "ReportCategory.labels"
+msgid "Create Category"
+msgstr ""
+
+msgctxt "ReportCategory.labels"
+msgid "Manage Categories"
+msgstr ""
+
+msgctxt "ReportCategory.labels"
+msgid "Reports"
+msgstr ""
+
+msgctxt "ReportCategory.fields"
+msgid "Order"
+msgstr ""
+
+msgctxt "ReportCategory.links"
+msgid "Reports"
+msgstr ""
+
+msgctxt "ReportFilter.labels"
+msgid "Create Filter"
+msgstr ""
+
+msgctxt "ReportFilter.labels"
+msgid "Rebuild Filters"
+msgstr ""
+
+msgctxt "ReportFilter.fields"
+msgid "Order"
+msgstr ""
+
+msgctxt "ReportFilter.fields"
+msgid "Report"
+msgstr ""
+
+msgctxt "ReportFilter.fields"
+msgid "Entity Type"
+msgstr ""
+
+msgctxt "ReportFilter.fields"
+msgid "Is Enabled"
+msgstr ""
+
+msgctxt "ReportFilter.links"
+msgid "Report"
+msgstr ""
+
+msgctxt "ReportFilter.tooltips"
+msgid ""
+"Teams the filter will be available for. If no teams specified then no "
+"restriction by team will be applied."
+msgstr ""
+
+msgctxt "ReportFilter.tooltips"
+msgid "List Report that will be used for the filter."
+msgstr ""
+
+msgctxt "ReportPanel.labels"
+msgid "Create Panel"
+msgstr ""
+
+msgctxt "ReportPanel.labels"
+msgid "Rebuild Panels"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Report"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Entity Type"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Is Enabled"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Type"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Report Type"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Display Total"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Display Only Total"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Column"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Report Entity Type"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Column List"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Conditions making panel visible"
+msgstr ""
+
+msgctxt "ReportPanel.fields"
+msgid "Order"
+msgstr ""
+
+msgctxt "ReportPanel.links"
+msgid "Report"
+msgstr ""
+
+msgctxt "ReportPanel.tooltips"
+msgid ""
+"Teams the panel will be displayed for. If no teams specified then no "
+"restriction by team will be applied."
+msgstr ""
+
+msgctxt "ReportPanel.tooltips"
+msgid "Report that will be used for the panel."
+msgstr ""
+
+msgctxt "ReportPanel.tooltips"
+msgid ""
+"[0..1] - before Stream panel;\n"
+"[3..4] - before relationship panels;\n"
+"[6..] - after relationship panels."
+msgstr ""
+
+msgctxt "ReportPanel.options.type"
+msgid "Side"
+msgstr ""
+
+msgctxt "ReportPanel.options.type"
+msgid "Bottom"
+msgstr ""
+
+msgctxt "ScheduledJob.options.job"
+msgid "Sync Target Lists with Reports"
+msgstr ""
+
+msgctxt "ScheduledJob.options.job"
+msgid "Schedule Report Sending"
+msgstr ""
+
+msgctxt "ScheduledJob.options.job"
+msgid "Run Scheduled Workflows"
+msgstr ""
+
+msgctxt "ScheduledJob.options.job"
+msgid "Process Pending Flows"
+msgstr ""
+
+msgctxt "TargetList.labels"
+msgid "Sync with Reports"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Reports"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Enabled"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Unlink"
+msgstr ""
+
+msgctxt "TargetList.links"
+msgid "Sync with Reports"
+msgstr ""
+
+msgctxt "TargetList.tooltips"
+msgid ""
+"Entries which are not contained in report results will be unlinked from "
+"Target List."
+msgstr ""
+
+msgctxt "TargetList.tooltips"
+msgid "Target List will be synced with results of selected reports."
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Target Entity"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Trigger Type"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Active"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Users to make to follow the record"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "What to follow"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Portal Only"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Portal"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Target Report"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Scheduling"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Service Method"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Assignment Rule"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Target Team"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Target User Position"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "List Report"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Link with Target Entity through relationships"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Links"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Target"
+msgstr ""
+
+msgctxt "Workflow.fields"
+msgid "Who make to follow"
+msgstr ""
+
+msgctxt "Workflow.links"
+msgid "Portal"
+msgstr ""
+
+msgctxt "Workflow.links"
+msgid "Target Report"
+msgstr ""
+
+msgctxt "Workflow.links"
+msgid "Log"
+msgstr ""
+
+msgctxt "Workflow.tooltips"
+msgid "If checked workflow will be triggered only in portal."
+msgstr ""
+
+msgctxt "Workflow.tooltips"
+msgid ""
+"Specific portal where workflow will be triggered. Leave empty if you need it "
+"to work in any portal."
+msgstr ""
+
+msgctxt "Workflow.tooltips"
+msgid ""
+"Crontab notation. Defines frequency of workflow rule runs. UTC timezone.\n"
+"\n"
+"*/5 * * * * - every 5 minutes\n"
+"\n"
+"0 */2 * * * - every 2 hours\n"
+"\n"
+"30 1 * * * - at 01:30 once a day\n"
+"\n"
+"0 0 1 * * - on the first day of the month"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Create Rule"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "General"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Conditions"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Actions"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "All"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Any"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Formula"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Email Address"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Email Template"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "From"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "To"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Immediately"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Reply-To"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Later"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "now"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "plus"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "minus"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "days"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "hours"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "months"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "minutes"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Link"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Entity"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Add Field"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "equals"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "was equal"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "not equals"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "was not equal"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "changed"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "not changed"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "not empty"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "empty"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "value"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "field"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "true"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "false"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "greater than"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "less than"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "greater than or equals"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "less than or equals"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "between"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "on"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "before"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "after"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "before today"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "after today"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Recipient"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "has"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "not has"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Message Template"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Users"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Target Entity"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Workflow"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Workflows Log"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Service Method"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Additional Parameters (JSON format)"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Do not store sent email"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Related"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Entity Type"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Workflow Rule"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Add Condition"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Add Action"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Created"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Field"
+msgstr ""
+
+msgctxt "Workflow.labels"
+msgid "Process"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "None"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "Current user"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "Specified email address"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "Assigned user"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "Target record"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "Specified users"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "Specified contacts"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "Users of teams related to target record"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "Followers of target record"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "Followers excluding assigned user"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "Users of specified teams"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "System"
+msgstr ""
+
+msgctxt "Workflow.emailAddressOptions"
+msgid "From/Reply-To address"
+msgstr ""
+
+msgctxt "Workflow.options.type"
+msgid "After record saved"
+msgstr ""
+
+msgctxt "Workflow.options.type"
+msgid "After record created"
+msgstr ""
+
+msgctxt "Workflow.options.type"
+msgid "Scheduled"
+msgstr ""
+
+msgctxt "Workflow.options.type"
+msgid "Sequential"
+msgstr ""
+
+msgctxt "Workflow.options.subjectType"
+msgid "value"
+msgstr ""
+
+msgctxt "Workflow.options.subjectType"
+msgid "field"
+msgstr ""
+
+msgctxt "Workflow.options.subjectType"
+msgid "today/now"
+msgstr ""
+
+msgctxt "Workflow.options.assignmentRule"
+msgid "Round-Robin"
+msgstr ""
+
+msgctxt "Workflow.options.assignmentRule"
+msgid "Least-Busy"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Send Email"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Create Record"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Create Related Record"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Update Target Record"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Update Related Record"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Link with Another Record"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Unlink from Another Record"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Make Followed"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Create Notification"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Trigger Another Workflow Rule"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Run Service Action"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Apply Assignment Rule"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Update Created Record"
+msgstr ""
+
+msgctxt "Workflow.actionTypes"
+msgid "Update Process Record"
+msgstr ""
+
+msgctxt "Workflow.texts"
+msgid "All must be met"
+msgstr ""
+
+msgctxt "Workflow.texts"
+msgid "At least one must be met"
+msgstr ""
+
+msgctxt "Workflow.texts"
+msgid "Conditions of any complexity in espo-formula language"
+msgstr ""
+
+msgctxt "Workflow.messages"
+msgid ""
+"Be careful about a possible looping through two or more workflow rules "
+"continuously."
+msgstr ""
+
+msgctxt "Workflow.messages"
+msgid ""
+"Available variables:\n"
+"{entity} - target record,\n"
+"{user} - current user."
+msgstr ""
+
+msgctxt "Workflow.serviceActions"
+msgid "Send Invitations"
+msgstr ""
+
+msgctxt "Workflow.serviceActions"
+msgid "Add Quote Items"
+msgstr ""
+
+msgctxt "Workflow.serviceActionsHelp"
+msgid ""
+"Example: <br><code>{<br>&nbsp;&nbsp;\"itemList\": [<br>&nbsp;&nbsp;&nbsp;"
+"&nbsp;{\"quantity\": 1, \"procuctId\": \"productId\", \"name\": \"Product "
+"Name\", \"listPrice\": 100, \"unitPrice\": 100}<br>&nbsp;&nbsp;]<br>}"
+msgstr ""
+
+msgctxt "WorkflowLogRecord.fields"
+msgid "Target"
+msgstr ""
+
+msgctxt "WorkflowLogRecord.fields"
+msgid "Workflow"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Email"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Website"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Phone"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Billing Address"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Shipping Address"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Sic Code"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Industry"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Type"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Title"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Inactive"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Target List"
+msgstr ""
+
+msgctxt "Account.fields"
+msgid "Original Lead"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Opportunities"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Cases"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Documents"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Meetings (expanded)"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Calls (expanded)"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Tasks (expanded)"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Emails (expanded)"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Campaign Log"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Portal Users"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Original Lead"
+msgstr ""
+
+msgctxt "Account.options.type"
+msgid "Customer"
+msgstr ""
+
+msgctxt "Account.options.type"
+msgid "Investor"
+msgstr ""
+
+msgctxt "Account.options.type"
+msgid "Partner"
+msgstr ""
+
+msgctxt "Account.options.type"
+msgid "Reseller"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Aerospace"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Agriculture"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Advertising"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Apparel & Accessories"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Architecture"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Automotive"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Banking"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Biotechnology"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Building Materials & Equipment"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Chemical"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Construction"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Computer"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Defense"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Creative"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Culture"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Consulting"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Education"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Electronics"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Electric Power"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Energy"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Entertainment & Leisure"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Finance"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Food & Beverage"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Grocery"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Hospitality"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Healthcare"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Insurance"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Legal"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Manufacturing"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Mass Media"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Mining"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Music"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Marketing"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Publishing"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Petroleum"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Real Estate"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Retail"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Shipping"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Service"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Support"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Sports"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Software"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Technology"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Telecommunications"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Television"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Testing, Inspection & Certification"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Transportation"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Travel"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Venture Capital"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Wholesale"
+msgstr ""
+
+msgctxt "Account.options.industry"
+msgid "Water"
+msgstr ""
+
+msgctxt "Account.labels"
+msgid "Create Account"
+msgstr ""
+
+msgctxt "Account.labels"
+msgid "Copy Billing"
+msgstr ""
+
+msgctxt "Account.labels"
+msgid "Set Primary"
+msgstr ""
+
+msgctxt "Account.presetFilters"
+msgid "Customers"
+msgstr ""
+
+msgctxt "Account.presetFilters"
+msgid "Partners"
+msgstr ""
+
+msgctxt "Account.presetFilters"
+msgid "Recently Created"
+msgstr ""
+
+msgctxt "Admin.layouts"
+msgid "Convert Lead"
+msgstr ""
+
+msgctxt "Admin.layouts"
+msgid "List (for Account)"
+msgstr ""
+
+msgctxt "Admin.layouts"
+msgid "List (for Contact)"
+msgstr ""
+
+msgctxt "Admin.templates"
+msgid "Invitation"
+msgstr ""
+
+msgctxt "Admin.templates"
+msgid "Reminder"
+msgstr ""
+
+msgctxt "Calendar.modes"
+msgid "Month"
+msgstr ""
+
+msgctxt "Calendar.modes"
+msgid "Week"
+msgstr ""
+
+msgctxt "Calendar.modes"
+msgid "Day"
+msgstr ""
+
+msgctxt "Calendar.modes"
+msgid "Timeline"
+msgstr ""
+
+msgctxt "Calendar.labels"
+msgid "Today"
+msgstr ""
+
+msgctxt "Calendar.labels"
+msgid "Create"
+msgstr ""
+
+msgctxt "Calendar.labels"
+msgid "Shared"
+msgstr ""
+
+msgctxt "Calendar.labels"
+msgid "Add User"
+msgstr ""
+
+msgctxt "Calendar.labels"
+msgid "current"
+msgstr ""
+
+msgctxt "Calendar.labels"
+msgid "time"
+msgstr ""
+
+msgctxt "Calendar.labels"
+msgid "User List"
+msgstr ""
+
+msgctxt "Calendar.labels"
+msgid "Manage Users"
+msgstr ""
+
+msgctxt "Calendar.labels"
+msgid "View Calendar"
+msgstr ""
+
+msgctxt "Calendar.labels"
+msgid "Create Shared View"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Parent"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Date Start"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Date End"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Direction"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Duration"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Users"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Leads"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Reminders"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Account"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Acceptance Status"
+msgstr ""
+
+msgctxt "Call.options.status"
+msgid "Planned"
+msgstr ""
+
+msgctxt "Call.options.status"
+msgid "Held"
+msgstr ""
+
+msgctxt "Call.options.status"
+msgid "Not Held"
+msgstr ""
+
+msgctxt "Call.options.direction"
+msgid "Outbound"
+msgstr ""
+
+msgctxt "Call.options.direction"
+msgid "Inbound"
+msgstr ""
+
+msgctxt "Call.options.acceptanceStatus"
+msgid "None"
+msgstr ""
+
+msgctxt "Call.options.acceptanceStatus"
+msgid "Accepted"
+msgstr ""
+
+msgctxt "Call.options.acceptanceStatus"
+msgid "Declined"
+msgstr ""
+
+msgctxt "Call.options.acceptanceStatus"
+msgid "Tentative"
+msgstr ""
+
+msgctxt "Call.massActions"
+msgid "Set Held"
+msgstr ""
+
+msgctxt "Call.massActions"
+msgid "Set Not Held"
+msgstr ""
+
+msgctxt "Call.labels"
+msgid "Create Call"
+msgstr ""
+
+msgctxt "Call.labels"
+msgid "Set Held"
+msgstr ""
+
+msgctxt "Call.labels"
+msgid "Set Not Held"
+msgstr ""
+
+msgctxt "Call.labels"
+msgid "Send Invitations"
+msgstr ""
+
+msgctxt "Call.presetFilters"
+msgid "Planned"
+msgstr ""
+
+msgctxt "Call.presetFilters"
+msgid "Held"
+msgstr ""
+
+msgctxt "Call.presetFilters"
+msgid "Today's"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Type"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Start Date"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "End Date"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Excluding Target Lists"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Sent"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Opened"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Clicked"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Opted Out"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Bounced"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Opted In"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Hard Bounced"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Soft Bounced"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Leads Created"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Revenue"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Revenue (converted)"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Budget"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Budget (converted)"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Budget Currency"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Contacts Template"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Leads Template"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Accounts Template"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Users Template"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "Skip records w/o filled address"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Excluding Target Lists"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Leads"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Opportunities"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Log"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Mass Emails"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Tracking URLs"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Contacts Template"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Leads Template"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Accounts Template"
+msgstr ""
+
+msgctxt "Campaign.links"
+msgid "Users Template"
+msgstr ""
+
+msgctxt "Campaign.options.type"
+msgid "Email"
+msgstr ""
+
+msgctxt "Campaign.options.type"
+msgid "Web"
+msgstr ""
+
+msgctxt "Campaign.options.type"
+msgid "Television"
+msgstr ""
+
+msgctxt "Campaign.options.type"
+msgid "Radio"
+msgstr ""
+
+msgctxt "Campaign.options.type"
+msgid "Newsletter"
+msgstr ""
+
+msgctxt "Campaign.options.type"
+msgid "Mail"
+msgstr ""
+
+msgctxt "Campaign.options.status"
+msgid "Planning"
+msgstr ""
+
+msgctxt "Campaign.options.status"
+msgid "Active"
+msgstr ""
+
+msgctxt "Campaign.options.status"
+msgid "Inactive"
+msgstr ""
+
+msgctxt "Campaign.options.status"
+msgid "Complete"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "Create Campaign"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "Statistics"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "hard"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "soft"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "Unsubscribe"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "Mass Emails"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "Email Templates"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "Unsubscribe again"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "Subscribe again"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "Create Target List"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "Mail Merge"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "Generate Mail Merge PDF"
+msgstr ""
+
+msgctxt "Campaign.presetFilters"
+msgid "Active"
+msgstr ""
+
+msgctxt "Campaign.messages"
+msgid "You have been unsubscribed from our mailing list."
+msgstr ""
+
+msgctxt "Campaign.messages"
+msgid "You are subscribed again."
+msgstr ""
+
+msgctxt "Campaign.tooltips"
+msgid "Targets that should receive messages."
+msgstr ""
+
+msgctxt "Campaign.tooltips"
+msgid "Targets that should not receive messages."
+msgstr ""
+
+msgctxt "CampaignLogRecord.fields"
+msgid "Action"
+msgstr ""
+
+msgctxt "CampaignLogRecord.fields"
+msgid "Date"
+msgstr ""
+
+msgctxt "CampaignLogRecord.fields"
+msgid "Data"
+msgstr ""
+
+msgctxt "CampaignLogRecord.fields"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "CampaignLogRecord.fields"
+msgid "Target"
+msgstr ""
+
+msgctxt "CampaignLogRecord.fields"
+msgid "Object"
+msgstr ""
+
+msgctxt "CampaignLogRecord.fields"
+msgid "Application"
+msgstr ""
+
+msgctxt "CampaignLogRecord.fields"
+msgid "Queue Item"
+msgstr ""
+
+msgctxt "CampaignLogRecord.fields"
+msgid "String Data"
+msgstr ""
+
+msgctxt "CampaignLogRecord.fields"
+msgid "String Additional Data"
+msgstr ""
+
+msgctxt "CampaignLogRecord.fields"
+msgid "Is Test"
+msgstr ""
+
+msgctxt "CampaignLogRecord.links"
+msgid "Queue Item"
+msgstr ""
+
+msgctxt "CampaignLogRecord.links"
+msgid "Parent"
+msgstr ""
+
+msgctxt "CampaignLogRecord.links"
+msgid "Object"
+msgstr ""
+
+msgctxt "CampaignLogRecord.links"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "CampaignLogRecord.options.action"
+msgid "Sent"
+msgstr ""
+
+msgctxt "CampaignLogRecord.options.action"
+msgid "Opened"
+msgstr ""
+
+msgctxt "CampaignLogRecord.options.action"
+msgid "Opted Out"
+msgstr ""
+
+msgctxt "CampaignLogRecord.options.action"
+msgid "Bounced"
+msgstr ""
+
+msgctxt "CampaignLogRecord.options.action"
+msgid "Clicked"
+msgstr ""
+
+msgctxt "CampaignLogRecord.options.action"
+msgid "Lead Created"
+msgstr ""
+
+msgctxt "CampaignLogRecord.options.action"
+msgid "Opted In"
+msgstr ""
+
+msgctxt "CampaignLogRecord.labels"
+msgid "All"
+msgstr ""
+
+msgctxt "CampaignLogRecord.presetFilters"
+msgid "Sent"
+msgstr ""
+
+msgctxt "CampaignLogRecord.presetFilters"
+msgid "Opened"
+msgstr ""
+
+msgctxt "CampaignLogRecord.presetFilters"
+msgid "Opted Out"
+msgstr ""
+
+msgctxt "CampaignLogRecord.presetFilters"
+msgid "Opted In"
+msgstr ""
+
+msgctxt "CampaignLogRecord.presetFilters"
+msgid "Bounced"
+msgstr ""
+
+msgctxt "CampaignLogRecord.presetFilters"
+msgid "Clicked"
+msgstr ""
+
+msgctxt "CampaignLogRecord.presetFilters"
+msgid "Lead Created"
+msgstr ""
+
+msgctxt "CampaignTrackingUrl.fields"
+msgid "URL"
+msgstr ""
+
+msgctxt "CampaignTrackingUrl.fields"
+msgid "Action"
+msgstr ""
+
+msgctxt "CampaignTrackingUrl.fields"
+msgid "Code to insert instead of URL"
+msgstr ""
+
+msgctxt "CampaignTrackingUrl.fields"
+msgid "Message"
+msgstr ""
+
+msgctxt "CampaignTrackingUrl.fields"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "CampaignTrackingUrl.links"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "CampaignTrackingUrl.labels"
+msgid "Create Tracking URL"
+msgstr ""
+
+msgctxt "CampaignTrackingUrl.options.action"
+msgid "Redirect"
+msgstr ""
+
+msgctxt "CampaignTrackingUrl.options.action"
+msgid "Show Message"
+msgstr ""
+
+msgctxt "CampaignTrackingUrl.tooltips"
+msgid ""
+"The recipient will be redirected to this location after they follow the link."
+msgstr ""
+
+msgctxt "CampaignTrackingUrl.tooltips"
+msgid ""
+"The message will be shown to the recipient after they follow the link. "
+"Markdown is supported."
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Number"
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Account"
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Contact"
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Priority"
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Type"
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Group Email Account"
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Lead"
+msgstr ""
+
+msgctxt "Case.fields"
+msgid "Attachments"
+msgstr ""
+
+msgctxt "Case.links"
+msgid "Group Email Account"
+msgstr ""
+
+msgctxt "Case.links"
+msgid "Account"
+msgstr ""
+
+msgctxt "Case.links"
+msgid "Contact (Primary)"
+msgstr ""
+
+msgctxt "Case.links"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Case.links"
+msgid "Meetings"
+msgstr ""
+
+msgctxt "Case.links"
+msgid "Calls"
+msgstr ""
+
+msgctxt "Case.links"
+msgid "Tasks"
+msgstr ""
+
+msgctxt "Case.links"
+msgid "Emails"
+msgstr ""
+
+msgctxt "Case.links"
+msgid "Knowledge Base Articles"
+msgstr ""
+
+msgctxt "Case.links"
+msgid "Lead"
+msgstr ""
+
+msgctxt "Case.links"
+msgid "Attachments"
+msgstr ""
+
+msgctxt "Case.options.status"
+msgid "New"
+msgstr ""
+
+msgctxt "Case.options.status"
+msgid "Assigned"
+msgstr ""
+
+msgctxt "Case.options.status"
+msgid "Pending"
+msgstr ""
+
+msgctxt "Case.options.status"
+msgid "Closed"
+msgstr ""
+
+msgctxt "Case.options.status"
+msgid "Rejected"
+msgstr ""
+
+msgctxt "Case.options.status"
+msgid "Duplicate"
+msgstr ""
+
+msgctxt "Case.options.priority"
+msgid "Low"
+msgstr ""
+
+msgctxt "Case.options.priority"
+msgid "Normal"
+msgstr ""
+
+msgctxt "Case.options.priority"
+msgid "High"
+msgstr ""
+
+msgctxt "Case.options.priority"
+msgid "Urgent"
+msgstr ""
+
+msgctxt "Case.options.type"
+msgid "Question"
+msgstr ""
+
+msgctxt "Case.options.type"
+msgid "Incident"
+msgstr ""
+
+msgctxt "Case.options.type"
+msgid "Problem"
+msgstr ""
+
+msgctxt "Case.labels"
+msgid "Create Case"
+msgstr ""
+
+msgctxt "Case.labels"
+msgid "Close"
+msgstr ""
+
+msgctxt "Case.labels"
+msgid "Reject"
+msgstr ""
+
+msgctxt "Case.labels"
+msgid "Closed"
+msgstr ""
+
+msgctxt "Case.labels"
+msgid "Rejected"
+msgstr ""
+
+msgctxt "Case.presetFilters"
+msgid "Open"
+msgstr ""
+
+msgctxt "Case.presetFilters"
+msgid "Closed"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Email"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Primary Account Title"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Account"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Phone"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Account Type"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Do Not Call"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Address"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Opportunity Role"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Title"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Target List"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Portal User"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Original Lead"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Acceptance Status"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Account Inactive"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Acceptance Status (Meetings)"
+msgstr ""
+
+msgctxt "Contact.fields"
+msgid "Acceptance Status (Calls)"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Opportunities"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Cases"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Campaign Log"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Account (Primary)"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Cases (Primary)"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Tasks (expanded)"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Opportunities (Primary)"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Portal User"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Original Lead"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Documents"
+msgstr ""
+
+msgctxt "Contact.labels"
+msgid "Create Contact"
+msgstr ""
+
+msgctxt "Contact.options.opportunityRole"
+msgid "Decision Maker"
+msgstr ""
+
+msgctxt "Contact.options.opportunityRole"
+msgid "Evaluator"
+msgstr ""
+
+msgctxt "Contact.options.opportunityRole"
+msgid "Influencer"
+msgstr ""
+
+msgctxt "Contact.presetFilters"
+msgid "Portal Users"
+msgstr ""
+
+msgctxt "Contact.presetFilters"
+msgid "Not Portal Users"
+msgstr ""
+
+msgctxt "Contact.presetFilters"
+msgid "Active"
+msgstr ""
+
+msgctxt "DashletOptions.fields"
+msgid "Team"
+msgstr ""
+
+msgctxt "DashletOptions.fields"
+msgid "Next X Days"
+msgstr ""
+
+msgctxt "DashletOptions.fields"
+msgid "Group by last reached stage"
+msgstr ""
+
+msgctxt "Document.labels"
+msgid "Create Document"
+msgstr ""
+
+msgctxt "Document.labels"
+msgid "Details"
+msgstr ""
+
+msgctxt "Document.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "Document.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "Document.fields"
+msgid "File"
+msgstr ""
+
+msgctxt "Document.fields"
+msgid "Type"
+msgstr ""
+
+msgctxt "Document.fields"
+msgid "Publish Date"
+msgstr ""
+
+msgctxt "Document.fields"
+msgid "Expiration Date"
+msgstr ""
+
+msgctxt "Document.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Document.fields"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "Document.fields"
+msgid "Folder"
+msgstr ""
+
+msgctxt "Document.links"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "Document.links"
+msgid "Opportunities"
+msgstr ""
+
+msgctxt "Document.links"
+msgid "Folder"
+msgstr ""
+
+msgctxt "Document.links"
+msgid "Leads"
+msgstr ""
+
+msgctxt "Document.links"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Document.options.status"
+msgid "Active"
+msgstr ""
+
+msgctxt "Document.options.status"
+msgid "Draft"
+msgstr ""
+
+msgctxt "Document.options.status"
+msgid "Expired"
+msgstr ""
+
+msgctxt "Document.options.status"
+msgid "Canceled"
+msgstr ""
+
+msgctxt "Document.options.type"
+msgid "None"
+msgstr ""
+
+msgctxt "Document.options.type"
+msgid "Contract"
+msgstr ""
+
+msgctxt "Document.options.type"
+msgid "NDA"
+msgstr ""
+
+msgctxt "Document.options.type"
+msgid "EULA"
+msgstr ""
+
+msgctxt "Document.options.type"
+msgid "License Agreement"
+msgstr ""
+
+msgctxt "Document.presetFilters"
+msgid "Active"
+msgstr ""
+
+msgctxt "Document.presetFilters"
+msgid "Draft"
+msgstr ""
+
+msgctxt "DocumentFolder.labels"
+msgid "Create Document Folder"
+msgstr ""
+
+msgctxt "DocumentFolder.labels"
+msgid "Manage Folders"
+msgstr ""
+
+msgctxt "DocumentFolder.labels"
+msgid "Documents"
+msgstr ""
+
+msgctxt "DocumentFolder.links"
+msgid "Documents"
+msgstr ""
+
+msgctxt "Email.labels"
+msgid "Create Lead"
+msgstr ""
+
+msgctxt "Email.labels"
+msgid "Create Contact"
+msgstr ""
+
+msgctxt "Email.labels"
+msgid "Add to Contact"
+msgstr ""
+
+msgctxt "Email.labels"
+msgid "Add to Lead"
+msgstr ""
+
+msgctxt "Email.labels"
+msgid "Create Task"
+msgstr ""
+
+msgctxt "Email.labels"
+msgid "Create Case"
+msgstr ""
+
+msgctxt "EmailQueueItem.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "EmailQueueItem.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "EmailQueueItem.fields"
+msgid "Target"
+msgstr ""
+
+msgctxt "EmailQueueItem.fields"
+msgid "Date Sent"
+msgstr ""
+
+msgctxt "EmailQueueItem.fields"
+msgid "Attempts"
+msgstr ""
+
+msgctxt "EmailQueueItem.fields"
+msgid "Email Address"
+msgstr ""
+
+msgctxt "EmailQueueItem.fields"
+msgid "Mass Email"
+msgstr ""
+
+msgctxt "EmailQueueItem.fields"
+msgid "Is Test"
+msgstr ""
+
+msgctxt "EmailQueueItem.links"
+msgid "Target"
+msgstr ""
+
+msgctxt "EmailQueueItem.links"
+msgid "Mass Email"
+msgstr ""
+
+msgctxt "EmailQueueItem.options.status"
+msgid "Pending"
+msgstr ""
+
+msgctxt "EmailQueueItem.options.status"
+msgid "Sent"
+msgstr ""
+
+msgctxt "EmailQueueItem.options.status"
+msgid "Failed"
+msgstr ""
+
+msgctxt "EmailQueueItem.options.status"
+msgid "Sending"
+msgstr ""
+
+msgctxt "EmailQueueItem.presetFilters"
+msgid "Pending"
+msgstr ""
+
+msgctxt "EmailQueueItem.presetFilters"
+msgid "Sent"
+msgstr ""
+
+msgctxt "EmailQueueItem.presetFilters"
+msgid "Failed"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Account"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Contact"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Lead"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Target"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Opportunity"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Meeting"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Call"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Task"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Case"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Document"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Document Folder"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Target List"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Mass Email"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Email Queue Item"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Tracking URL"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Activities"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Knowledge Base Article"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Knowledge Base Category"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Campaign Log Record"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Leads"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Targets"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Opportunities"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Meetings"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Calls"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Tasks"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Cases"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Documents"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Document Folders"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Campaigns"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Mass Emails"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Email Queue Items"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Tracking URLs"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Activities"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Knowledge Base"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Knowledge Base Categories"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Campaign Log Records"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "My Leads"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "My Opportunities"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "My Tasks"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "My Cases"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "My Calls"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "My Meetings"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "Opportunities by Stage"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "Opportunities by Lead Source"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "Sales by Month"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "Sales Pipeline"
+msgstr ""
+
+msgctxt "Global.dashlets"
+msgid "My Activities"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "Create Inbound Email"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "Activities"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "History"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "Attendees"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "Schedule Meeting"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "Schedule Call"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "Compose Email"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "Log Meeting"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "Log Call"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "Archive Email"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "Create Task"
+msgstr ""
+
+msgctxt "Global.labels"
+msgid "Tasks"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "City"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "Country"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "Postal Code"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "State"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "Street"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "Map"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "City (Shipping)"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "Street (Shipping)"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "Country (Shipping)"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "State (Shipping)"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "Postal Code (Shipping)"
+msgstr ""
+
+msgctxt "Global.fields"
+msgid "Map (Shipping)"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Opportunities"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Leads"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Meetings"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Calls"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Tasks"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Emails"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Cases"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Documents"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Account"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Opportunity"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Contact"
+msgstr ""
+
+msgctxt "Global.links"
+msgid "Parent"
+msgstr ""
+
+msgctxt "Global.options.reminderTypes"
+msgid "Popup"
+msgstr ""
+
+msgctxt "Global.options.reminderTypes"
+msgid "Email"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.labels"
+msgid "Create Article"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.labels"
+msgid "Any"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.labels"
+msgid "Send in Email"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.labels"
+msgid "Move Up"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.labels"
+msgid "Move Down"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.labels"
+msgid "Move to Top"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.labels"
+msgid "Move to Bottom"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.fields"
+msgid "Type"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.fields"
+msgid "Attachments"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.fields"
+msgid "Publish Date"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.fields"
+msgid "Expiration Date"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.fields"
+msgid "Body"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.fields"
+msgid "Categories"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.fields"
+msgid "Language"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.fields"
+msgid "Portals"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.links"
+msgid "Cases"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.links"
+msgid "Opportunities"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.links"
+msgid "Categories"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.links"
+msgid "Portals"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.options.status"
+msgid "In Review"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.options.status"
+msgid "Draft"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.options.status"
+msgid "Archived"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.options.status"
+msgid "Published"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.options.type"
+msgid "Article"
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.tooltips"
+msgid "Article will be available only in specified portals."
+msgstr ""
+
+msgctxt "KnowledgeBaseArticle.presetFilters"
+msgid "Published"
+msgstr ""
+
+msgctxt "KnowledgeBaseCategory.labels"
+msgid "Create Category"
+msgstr ""
+
+msgctxt "KnowledgeBaseCategory.labels"
+msgid "Manage Categories"
+msgstr ""
+
+msgctxt "KnowledgeBaseCategory.labels"
+msgid "Articles"
+msgstr ""
+
+msgctxt "KnowledgeBaseCategory.links"
+msgid "Articles"
+msgstr ""
+
+msgctxt "Lead.labels"
+msgid "Converted To"
+msgstr ""
+
+msgctxt "Lead.labels"
+msgid "Create Lead"
+msgstr ""
+
+msgctxt "Lead.labels"
+msgid "Convert"
+msgstr ""
+
+msgctxt "Lead.labels"
+msgid "convert"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Email"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Title"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Website"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Phone"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Account Name"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Do Not Call"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Address"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Source"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Opportunity Amount"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Opportunity Amount (converted)"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Account"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Contact"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Opportunity"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Converted At"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Target List"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Industry"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Acceptance Status"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Opportunity Amount Currency"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Acceptance Status (Meetings)"
+msgstr ""
+
+msgctxt "Lead.fields"
+msgid "Acceptance Status (Calls)"
+msgstr ""
+
+msgctxt "Lead.links"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "Lead.links"
+msgid "Campaign Log"
+msgstr ""
+
+msgctxt "Lead.links"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "Lead.links"
+msgid "Account"
+msgstr ""
+
+msgctxt "Lead.links"
+msgid "Contact"
+msgstr ""
+
+msgctxt "Lead.links"
+msgid "Opportunity"
+msgstr ""
+
+msgctxt "Lead.links"
+msgid "Cases"
+msgstr ""
+
+msgctxt "Lead.links"
+msgid "Documents"
+msgstr ""
+
+msgctxt "Lead.options.status"
+msgid "New"
+msgstr ""
+
+msgctxt "Lead.options.status"
+msgid "Assigned"
+msgstr ""
+
+msgctxt "Lead.options.status"
+msgid "In Process"
+msgstr ""
+
+msgctxt "Lead.options.status"
+msgid "Converted"
+msgstr ""
+
+msgctxt "Lead.options.status"
+msgid "Recycled"
+msgstr ""
+
+msgctxt "Lead.options.status"
+msgid "Dead"
+msgstr ""
+
+msgctxt "Lead.options.source"
+msgid "None"
+msgstr ""
+
+msgctxt "Lead.options.source"
+msgid "Call"
+msgstr ""
+
+msgctxt "Lead.options.source"
+msgid "Email"
+msgstr ""
+
+msgctxt "Lead.options.source"
+msgid "Existing Customer"
+msgstr ""
+
+msgctxt "Lead.options.source"
+msgid "Partner"
+msgstr ""
+
+msgctxt "Lead.options.source"
+msgid "Public Relations"
+msgstr ""
+
+msgctxt "Lead.options.source"
+msgid "Web Site"
+msgstr ""
+
+msgctxt "Lead.options.source"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "Lead.options.source"
+msgid "Other"
+msgstr ""
+
+msgctxt "Lead.presetFilters"
+msgid "Active"
+msgstr ""
+
+msgctxt "Lead.presetFilters"
+msgid "Actual"
+msgstr ""
+
+msgctxt "Lead.presetFilters"
+msgid "Converted"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Store Sent Emails"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Date Start"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "From Address"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "From Name"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Reply-to Address"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Reply-to Name"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Email Template"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Email Account"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Excluding Target Lists"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "Opt-Out Entirely"
+msgstr ""
+
+msgctxt "MassEmail.fields"
+msgid "SMTP Account"
+msgstr ""
+
+msgctxt "MassEmail.links"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "MassEmail.links"
+msgid "Excluding Target Lists"
+msgstr ""
+
+msgctxt "MassEmail.links"
+msgid "Queue Items"
+msgstr ""
+
+msgctxt "MassEmail.links"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "MassEmail.links"
+msgid "Email Template"
+msgstr ""
+
+msgctxt "MassEmail.links"
+msgid "Email Account"
+msgstr ""
+
+msgctxt "MassEmail.options.status"
+msgid "Draft"
+msgstr ""
+
+msgctxt "MassEmail.options.status"
+msgid "Pending"
+msgstr ""
+
+msgctxt "MassEmail.options.status"
+msgid "In Process"
+msgstr ""
+
+msgctxt "MassEmail.options.status"
+msgid "Complete"
+msgstr ""
+
+msgctxt "MassEmail.options.status"
+msgid "Canceled"
+msgstr ""
+
+msgctxt "MassEmail.options.status"
+msgid "Failed"
+msgstr ""
+
+msgctxt "MassEmail.labels"
+msgid "Create Mass Email"
+msgstr ""
+
+msgctxt "MassEmail.labels"
+msgid "Send Test"
+msgstr ""
+
+msgctxt "MassEmail.labels"
+msgid "System SMTP"
+msgstr ""
+
+msgctxt "MassEmail.labels"
+msgid "system"
+msgstr ""
+
+msgctxt "MassEmail.labels"
+msgid "group"
+msgstr ""
+
+msgctxt "MassEmail.messages"
+msgid "Select at least one target."
+msgstr ""
+
+msgctxt "MassEmail.messages"
+msgid "Test email(s) supposed to be sent"
+msgstr ""
+
+msgctxt "MassEmail.tooltips"
+msgid ""
+"Email addresses of recipients that unsubscribed will be marked as opted out "
+"and they will not receive any mass emails anymore."
+msgstr ""
+
+msgctxt "MassEmail.tooltips"
+msgid "Targets that should receive messages."
+msgstr ""
+
+msgctxt "MassEmail.tooltips"
+msgid "Targets that should not receive messages."
+msgstr ""
+
+msgctxt "MassEmail.tooltips"
+msgid "Emails will be stored in CRM."
+msgstr ""
+
+msgctxt "MassEmail.presetFilters"
+msgid "Actual"
+msgstr ""
+
+msgctxt "MassEmail.presetFilters"
+msgid "Complete"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Parent"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Date Start"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Date End"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Duration"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Users"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Leads"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Reminders"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Account"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Acceptance Status"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Date Start (all day)"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Date End (all day)"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Is All-Day"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Acceptance"
+msgstr ""
+
+msgctxt "Meeting.options.status"
+msgid "Planned"
+msgstr ""
+
+msgctxt "Meeting.options.status"
+msgid "Held"
+msgstr ""
+
+msgctxt "Meeting.options.status"
+msgid "Not Held"
+msgstr ""
+
+msgctxt "Meeting.options.acceptanceStatus"
+msgid "None"
+msgstr ""
+
+msgctxt "Meeting.options.acceptanceStatus"
+msgid "Accepted"
+msgstr ""
+
+msgctxt "Meeting.options.acceptanceStatus"
+msgid "Declined"
+msgstr ""
+
+msgctxt "Meeting.options.acceptanceStatus"
+msgid "Tentative"
+msgstr ""
+
+msgctxt "Meeting.massActions"
+msgid "Set Held"
+msgstr ""
+
+msgctxt "Meeting.massActions"
+msgid "Set Not Held"
+msgstr ""
+
+msgctxt "Meeting.labels"
+msgid "Create Meeting"
+msgstr ""
+
+msgctxt "Meeting.labels"
+msgid "Set Held"
+msgstr ""
+
+msgctxt "Meeting.labels"
+msgid "Set Not Held"
+msgstr ""
+
+msgctxt "Meeting.labels"
+msgid "Send Invitations"
+msgstr ""
+
+msgctxt "Meeting.labels"
+msgid "on time"
+msgstr ""
+
+msgctxt "Meeting.labels"
+msgid "before"
+msgstr ""
+
+msgctxt "Meeting.labels"
+msgid "All-Day"
+msgstr ""
+
+msgctxt "Meeting.presetFilters"
+msgid "Planned"
+msgstr ""
+
+msgctxt "Meeting.presetFilters"
+msgid "Held"
+msgstr ""
+
+msgctxt "Meeting.presetFilters"
+msgid "Today's"
+msgstr ""
+
+msgctxt "Meeting.messages"
+msgid "Set your acceptance status."
+msgstr ""
+
+msgctxt "Meeting.messages"
+msgid "Nothing were sent"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Account"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Stage"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Amount"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Probability, %"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Lead Source"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Do Not Call"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Close Date"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Contact (Primary)"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Amount (converted)"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Amount Weighted"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Original Lead"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Amount Currency"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Contact Role"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Last Stage"
+msgstr ""
+
+msgctxt "Opportunity.links"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Opportunity.links"
+msgid "Contact (Primary)"
+msgstr ""
+
+msgctxt "Opportunity.links"
+msgid "Documents"
+msgstr ""
+
+msgctxt "Opportunity.links"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "Opportunity.links"
+msgid "Original Lead"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Prospecting"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Qualification"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Proposal"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Negotiation"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Needs Analysis"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Value Proposition"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Id. Decision Makers"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Perception Analysis"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Proposal/Price Quote"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Negotiation/Review"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Closed Won"
+msgstr ""
+
+msgctxt "Opportunity.options.stage"
+msgid "Closed Lost"
+msgstr ""
+
+msgctxt "Opportunity.labels"
+msgid "Create Opportunity"
+msgstr ""
+
+msgctxt "Opportunity.presetFilters"
+msgid "Open"
+msgstr ""
+
+msgctxt "Opportunity.presetFilters"
+msgid "Won"
+msgstr ""
+
+msgctxt "Opportunity.presetFilters"
+msgid "Lost"
+msgstr ""
+
+msgctxt "Portal.links"
+msgid "Knowledge Base Articles"
+msgstr ""
+
+msgctxt "ScheduledJob.options.job"
+msgid "Send Mass Emails"
+msgstr ""
+
+msgctxt "ScheduledJob.options.job"
+msgid "Control Knowledge Base Article Status"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Entry Count"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Opted Out Count"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Campaigns"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "End Date"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Including"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Excluding"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Target Status"
+msgstr ""
+
+msgctxt "TargetList.fields"
+msgid "Is Opted Out"
+msgstr ""
+
+msgctxt "TargetList.links"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "TargetList.links"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "TargetList.links"
+msgid "Leads"
+msgstr ""
+
+msgctxt "TargetList.links"
+msgid "Campaigns"
+msgstr ""
+
+msgctxt "TargetList.links"
+msgid "Mass Emails"
+msgstr ""
+
+msgctxt "TargetList.options.type"
+msgid "Email"
+msgstr ""
+
+msgctxt "TargetList.options.type"
+msgid "Web"
+msgstr ""
+
+msgctxt "TargetList.options.type"
+msgid "Television"
+msgstr ""
+
+msgctxt "TargetList.options.type"
+msgid "Radio"
+msgstr ""
+
+msgctxt "TargetList.options.type"
+msgid "Newsletter"
+msgstr ""
+
+msgctxt "TargetList.options.targetStatus"
+msgid "Opted Out"
+msgstr ""
+
+msgctxt "TargetList.options.targetStatus"
+msgid "Listed"
+msgstr ""
+
+msgctxt "TargetList.labels"
+msgid "Create Target List"
+msgstr ""
+
+msgctxt "TargetList.labels"
+msgid "Opted Out"
+msgstr ""
+
+msgctxt "TargetList.labels"
+msgid "Cancel Opt-Out"
+msgstr ""
+
+msgctxt "TargetList.labels"
+msgid "Opt-Out"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Parent"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Date Start"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Date Due"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Date Start (all day)"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Date End (all day)"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Priority"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Is Overdue"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Account"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Date Completed"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Attachments"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Reminders"
+msgstr ""
+
+msgctxt "Task.fields"
+msgid "Contact"
+msgstr ""
+
+msgctxt "Task.links"
+msgid "Attachments"
+msgstr ""
+
+msgctxt "Task.links"
+msgid "Account"
+msgstr ""
+
+msgctxt "Task.links"
+msgid "Contact"
+msgstr ""
+
+msgctxt "Task.options.status"
+msgid "Not Started"
+msgstr ""
+
+msgctxt "Task.options.status"
+msgid "Started"
+msgstr ""
+
+msgctxt "Task.options.status"
+msgid "Completed"
+msgstr ""
+
+msgctxt "Task.options.status"
+msgid "Canceled"
+msgstr ""
+
+msgctxt "Task.options.status"
+msgid "Deferred"
+msgstr ""
+
+msgctxt "Task.options.priority"
+msgid "Low"
+msgstr ""
+
+msgctxt "Task.options.priority"
+msgid "Normal"
+msgstr ""
+
+msgctxt "Task.options.priority"
+msgid "High"
+msgstr ""
+
+msgctxt "Task.options.priority"
+msgid "Urgent"
+msgstr ""
+
+msgctxt "Task.labels"
+msgid "Create Task"
+msgstr ""
+
+msgctxt "Task.labels"
+msgid "Complete"
+msgstr ""
+
+msgctxt "Task.presetFilters"
+msgid "Actual"
+msgstr ""
+
+msgctxt "Task.presetFilters"
+msgid "Completed"
+msgstr ""
+
+msgctxt "Task.presetFilters"
+msgid "Deferred"
+msgstr ""
+
+msgctxt "Task.presetFilters"
+msgid "Today's"
+msgstr ""
+
+msgctxt "Task.presetFilters"
+msgid "Overdue"
+msgstr ""
+
+msgctxt "User.fields"
+msgid "Acceptance Status"
+msgstr ""
+
+msgctxt "User.fields"
+msgid "Acceptance Status (Meetings)"
+msgstr ""
+
+msgctxt "User.fields"
+msgid "Acceptance Status (Calls)"
+msgstr ""
+
+msgctxt "User.links"
+msgid "Target Lists"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Google Calendar Event ID"
+msgstr ""
+
+msgctxt "Call.fields"
+msgid "Google Calendar"
+msgstr ""
+
+msgctxt "Call.links"
+msgid "Google Calendar"
+msgstr ""
+
+msgctxt "Contact.massActions"
+msgid "Push to Google"
+msgstr ""
+
+msgctxt "Contact.messages"
+msgid "Do you want to push selected contacts to Google Contacts?"
+msgstr ""
+
+msgctxt "Contact.messages"
+msgid ""
+"{count} record(s) successfully pushed. The rest is about to be pushed in "
+"idle mode."
+msgstr ""
+
+msgctxt "ExternalAccount.options.calendarDefaultEntity"
+msgid "Call"
+msgstr ""
+
+msgctxt "ExternalAccount.options.calendarDefaultEntity"
+msgid "Meeting"
+msgstr ""
+
+msgctxt "ExternalAccount.options.calendarDirection"
+msgid "One-way: EspoCRM > Google Calendar"
+msgstr ""
+
+msgctxt "ExternalAccount.options.calendarDirection"
+msgid "One-way: Google Calendar > EspoCRM"
+msgstr ""
+
+msgctxt "ExternalAccount.options.calendarDirection"
+msgid "Two-way"
+msgstr ""
+
+msgctxt "ExternalAccount.fields"
+msgid "Sync since"
+msgstr ""
+
+msgctxt "ExternalAccount.fields"
+msgid "Sync Entities and Identification Labels"
+msgstr ""
+
+msgctxt "ExternalAccount.fields"
+msgid "Direction"
+msgstr ""
+
+msgctxt "ExternalAccount.fields"
+msgid "Other Calendars"
+msgstr ""
+
+msgctxt "ExternalAccount.fields"
+msgid "Main Calendar"
+msgstr ""
+
+msgctxt "ExternalAccount.fields"
+msgid "Default Entity"
+msgstr ""
+
+msgctxt "ExternalAccount.fields"
+msgid "Add Contacts to Groups"
+msgstr ""
+
+msgctxt "ExternalAccount.fields"
+msgid "Remove Google Calendar Event upon removal in EspoCRM"
+msgstr ""
+
+msgctxt "ExternalAccount.fields"
+msgid "Don't sync event attendees"
+msgstr ""
+
+msgctxt "ExternalAccount.messages"
+msgid "Do you really want to disconnect?"
+msgstr ""
+
+msgctxt "ExternalAccount.messages"
+msgid "No available Google Products. Contact your Admin."
+msgstr ""
+
+msgctxt "ExternalAccount.tooltips"
+msgid ""
+"For type recognizing event name has to start from identification label. "
+"Label for default entity can be empty. Recommendation: Do not change "
+"identification labels after you saved sync setting"
+msgstr ""
+
+msgctxt "ExternalAccount.tooltips"
+msgid "Unrecognized Event will be loaded as selected entity."
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Google Calendar"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Google Contacts"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Google Calendar"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Google Contacts"
+msgstr ""
+
+msgctxt "Google.products"
+msgid "Google Calendar"
+msgstr ""
+
+msgctxt "Google.products"
+msgid "Google Task"
+msgstr ""
+
+msgctxt "Google.products"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "GoogleCalendar.messages"
+msgid "Only one entity could haven't Identification Label"
+msgstr ""
+
+msgctxt "GoogleCalendar.messages"
+msgid "Identification Label of not by default Entity can't be empty"
+msgstr ""
+
+msgctxt "GoogleCalendar.messages"
+msgid "Default Entity is required in the Sync Entities List"
+msgstr ""
+
+msgctxt "GoogleCalendar.messages"
+msgid "Identification Labels have to be unique"
+msgstr ""
+
+msgctxt "Integration.fields"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "Integration.fields"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "Integration.fields"
+msgid "Tasks"
+msgstr ""
+
+msgctxt "Integration.help"
+msgid ""
+"<p><b>Obtain OAuth 2.0 credentials from the Google Developers Console.</b></"
+"p><p>Visit <a href=\"https://console.developers.google.com/project\" target="
+"\"_blank\">Google Developers Console</a> to obtain OAuth 2.0 credentials "
+"such as a Client ID and Client Secret that are known to both Google and "
+"EspoCRM application.</p><p>This integration requires <b>curl</b> extension. "
+"Google Contacts also needs <b>libxml</b> and <b>xml</b>.</p>"
+msgstr ""
+
+msgctxt "Lead.massActions"
+msgid "Push to Google"
+msgstr ""
+
+msgctxt "Lead.messages"
+msgid "Do you want to push selected leads to Google Contacts?"
+msgstr ""
+
+msgctxt "Lead.messages"
+msgid ""
+"{count} record(s) successfully pushed. The rest is about to be pushed in "
+"idle mode."
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Google Calendar Event ID"
+msgstr ""
+
+msgctxt "Meeting.fields"
+msgid "Google Calendar"
+msgstr ""
+
+msgctxt "Meeting.links"
+msgid "Google Calendar"
+msgstr ""
+
+msgctxt "ScheduledJob.options.job"
+msgid "Google Calendar Sync"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "MailChimp: Campaign ID"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "MailChimp: Campaign Name"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "MailChimp: Campaign Status"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "MailChimp: Campaign WebID"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "MailChimp: Sync Status"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "MailChimp: Last Updated"
+msgstr ""
+
+msgctxt "Campaign.fields"
+msgid "MailChimp: Sync is running"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "MailChimp Campaign Sync"
+msgstr ""
+
+msgctxt "Campaign.labels"
+msgid "MailChimp Sync"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "MailChimp Campaign"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "MailChimp List"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "MailChimp List Group"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "MailChimp Campaigns"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "MailChimp Lists"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "MailChimp List Groups"
+msgstr ""
+
+msgctxt "Integration.fields"
+msgid "API Key"
+msgstr ""
+
+msgctxt "Integration.fields"
+msgid "Fetch sent Emails"
+msgstr ""
+
+msgctxt "Integration.fields"
+msgid "Mark email addresses as Opted Out for Unsubscribed Recipients"
+msgstr ""
+
+msgctxt "Integration.fields"
+msgid "Hard Bounced Handling"
+msgstr ""
+
+msgctxt "Integration.fields"
+msgid "Log/Activity sync duration (days)"
+msgstr ""
+
+msgctxt "Integration.fields"
+msgid "Custom Merge Fields"
+msgstr ""
+
+msgctxt "Integration.options.hardBouncedAction"
+msgid "Set Email Address as Invalid"
+msgstr ""
+
+msgctxt "Integration.options.hardBouncedAction"
+msgid "Remove from List"
+msgstr ""
+
+msgctxt "Integration.options.hardBouncedAction"
+msgid "Both of Actions"
+msgstr ""
+
+msgctxt "Integration.help"
+msgid ""
+"<p><b>MailChimp Configuration</b></p><p>You can get your API Key in your "
+"MailChimp Account, in Extras tab select API keys, or click <a href='https://"
+"admin.mailchimp.com/account/api/' target='_blank'>here</a>.</p>"
+msgstr ""
+
+msgctxt "Integration.tooltips"
+msgid ""
+"Fetch sent emails from MailChimp and relate to your Recipients in EspoCRM. "
+"Recommendation: Do not fetch emails if you use big recipient lists."
+msgstr ""
+
+msgctxt "Integration.tooltips"
+msgid "Number of days after campaign sent date activity will be synced."
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "sync with MailChimp"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "--Skip--"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "Merge Field Tag"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "Merge Field Name"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "Merge Field Type"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "Custom Merge Field Relations"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "did not sync with MailChimp. Try to schedule a sync one more time."
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "Espo Campaign"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "Espo Target List"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "MailChimp Campaign"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "MailChimp List"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "MailChimp Group"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "MailChimp Sync"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "Proceed Setup on MailChimp"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "Save & Sync Now"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "Sync Now"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "Scheduling Sync..."
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "Sync is scheduled"
+msgstr ""
+
+msgctxt "MailChimp.labels"
+msgid "You selected a grouping. Select a group?"
+msgstr ""
+
+msgctxt "MailChimp.messages"
+msgid "The Tag could not be empty"
+msgstr ""
+
+msgctxt "MailChimp.messages"
+msgid "This tag is reserved"
+msgstr ""
+
+msgctxt "MailChimp.messages"
+msgid "Not valid tag"
+msgstr ""
+
+msgctxt "MailChimp.messages"
+msgid "Duplicated Tag"
+msgstr ""
+
+msgctxt "MailChimp.messages"
+msgid "Empty Name"
+msgstr ""
+
+msgctxt "MailChimp.tooltips"
+msgid ""
+"Select a list group (second level in the tree), if you want to add all "
+"recipients of Target List to the specified Interest Group"
+msgstr ""
+
+msgctxt "MailChimpCampaign.labels"
+msgid "Create MailChimp Campaign"
+msgstr ""
+
+msgctxt "MailChimpCampaign.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "MailChimpCampaign.fields"
+msgid "Type"
+msgstr ""
+
+msgctxt "MailChimpCampaign.fields"
+msgid "List"
+msgstr ""
+
+msgctxt "MailChimpCampaign.fields"
+msgid "Email Subject"
+msgstr ""
+
+msgctxt "MailChimpCampaign.fields"
+msgid "From Email Address"
+msgstr ""
+
+msgctxt "MailChimpCampaign.fields"
+msgid "From Name"
+msgstr ""
+
+msgctxt "MailChimpCampaign.fields"
+msgid "Personalize the \"To:\" field"
+msgstr ""
+
+msgctxt "MailChimpCampaign.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "MailChimpCampaign.fields"
+msgid "Date Sent"
+msgstr ""
+
+msgctxt "MailChimpCampaign.fields"
+msgid "Content?"
+msgstr ""
+
+msgctxt "MailChimpCampaign.options.type"
+msgid "Regular"
+msgstr ""
+
+msgctxt "MailChimpCampaign.options.type"
+msgid "Plain-Text"
+msgstr ""
+
+msgctxt "MailChimpCampaign.options.type"
+msgid "RSS-Driven"
+msgstr ""
+
+msgctxt "MailChimpCampaign.options.type"
+msgid "A/B Split"
+msgstr ""
+
+msgctxt "MailChimpCampaign.options.type"
+msgid "Auto"
+msgstr ""
+
+msgctxt "MailChimpCampaign.options.status"
+msgid "Sent"
+msgstr ""
+
+msgctxt "MailChimpCampaign.options.status"
+msgid "Save"
+msgstr ""
+
+msgctxt "MailChimpCampaign.options.status"
+msgid "Paused"
+msgstr ""
+
+msgctxt "MailChimpCampaign.options.status"
+msgid "Schedule"
+msgstr ""
+
+msgctxt "MailChimpCampaign.options.status"
+msgid "Sending"
+msgstr ""
+
+msgctxt "MailChimpList.labels"
+msgid "Create MailChimp List"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "Company / Organization"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "Address"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "Other Address"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "City"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "State / Province / Region"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "Zip / Postal Code"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "Country"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "Phone"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "Remind people how they got on your list"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "Email Subject"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "From Email Address"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "From Name"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "Subcribers"
+msgstr ""
+
+msgctxt "MailChimpList.fields"
+msgid "Language"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Andorra"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "United Arab Emirates"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Afghanistan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Antigua and Barbuda"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Anguilla"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Albania"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Armenia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Angola"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Antarctica"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Argentina"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "American Samoa"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Austria"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Australia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Aruba"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Åland Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Azerbaijan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Barbados"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Bangladesh"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Belgium"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Burkina Faso"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Bulgaria"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Bahrain"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Burundi"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Benin"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Saint Barthélemy"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Bermuda"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Brunei Darussalam"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Bolivia, Plurinational State of"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Brazil"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Bahamas"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Bhutan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Bouvet Island"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Botswana"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Belarus"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Belize"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Canada"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Congo, the Democratic Republic of the"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Central African Republic"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Congo"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Switzerland"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Côte d'Ivoire"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Cook Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Chile"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Cameroon"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "China"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Colombia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Costa Rica"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Cuba"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Cabo Verde"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Curaçao"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Christmas Island"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Cyprus"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Czech Republic"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Germany"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Djibouti"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Denmark"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Dominica"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Dominican Republic"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Algeria"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Ecuador"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Estonia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Egypt"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Western Sahara"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Eritrea"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Spain"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Ethiopia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Finland"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Fiji"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Faroe Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "France"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Gabon"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "United Kingdom of Great Britain and Northern Ireland"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Grenada"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Georgia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "French Guiana"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Guernsey"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Ghana"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Gibraltar"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Greenland"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Gambia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Guinea"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Guadeloupe"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Equatorial Guinea"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Greece"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Guatemala"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Guam"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Guinea-Bissau"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Guyana"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Hong Kong"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Honduras"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Croatia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Haiti"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Hungary"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Indonesia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Ireland"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Israel"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Isle of Man"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "India"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Iraq"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Iceland"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Italy"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Jersey"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Jamaica"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Jordan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Japan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Kenya"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Kyrgyzstan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Cambodia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Kiribati"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Comoros"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Korea, Republic of"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Kuwait"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Cayman Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Kazakhstan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Lebanon"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Saint Lucia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Liechtenstein"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Sri Lanka"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Liberia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Lesotho"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Lithuania"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Luxembourg"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Latvia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Libya"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Morocco"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Monaco"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Moldova, Republic of"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Montenegro"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Saint Martin (French part)"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Madagascar"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Marshall Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Macedonia, the former Yugoslav Republic of"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Mali"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Myanmar"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Mongolia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Macao"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Northern Mariana Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Martinique"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Mauritania"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Montserrat"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Malta"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Mauritius"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Maldives"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Malawi"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Mexico"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Malaysia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Mozambique"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Namibia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "New Caledonia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Niger"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Norfolk Island"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Nigeria"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Nicaragua"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Netherlands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Norway"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Nepal"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Nauru"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Niue"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "New Zealand"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Oman"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Panama"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Peru"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "French Polynesia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Papua New Guinea"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Philippines"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Pakistan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Poland"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Pitcairn"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Puerto Rico"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Palestine, State of"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Portugal"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Palau"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Paraguay"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Qatar"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Réunion"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Romania"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Serbia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Russian Federation"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Rwanda"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Saudi Arabia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Solomon Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Seychelles"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Sudan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Sweden"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Singapore"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Slovenia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Slovakia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Sierra Leone"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "San Marino"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Senegal"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Somalia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Suriname"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "South Sudan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Sao Tome and Principe"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "El Salvador"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Syrian Arab Republic"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Swaziland"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Chad"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "French Southern Territories"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Togo"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Thailand"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Tajikistan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Tokelau"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Timor-Leste"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Turkmenistan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Tunisia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Tonga"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Turkey"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Trinidad and Tobago"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Tuvalu"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Taiwan, Province of China"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Ukraine"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Uganda"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "United States of America"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Uruguay"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Uzbekistan"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Holy See"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Venezuela, Bolivarian Republic of"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Virgin Islands, British"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Viet Nam"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Vanuatu"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Wallis and Futuna"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Samoa"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Yemen"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Mayotte"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "South Africa"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Zambia"
+msgstr ""
+
+msgctxt "MailChimpList.options.country"
+msgid "Zimbabwe"
+msgstr ""
+
+msgctxt "ScheduledJob.options.job"
+msgid "MailChimp Sync"
+msgstr ""
+
+msgctxt "ScheduledJob.options.job"
+msgid "MailChimp Sync Queue"
+msgstr ""
+
+msgctxt "TargetList.labels"
+msgid "MailChimp List Sync"
+msgstr ""
+
+msgctxt "TargetList.labels"
+msgid "MailChimp Sync"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Quotes"
+msgstr ""
+
+msgctxt "Account.links"
+msgid "Quote Items"
+msgstr ""
+
+msgctxt "Admin.layouts"
+msgid "List (Item)"
+msgstr ""
+
+msgctxt "Admin.layouts"
+msgid "Bottom Total"
+msgstr ""
+
+msgctxt "Admin.fields"
+msgid "Auto-Increment"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Quotes (Billing)"
+msgstr ""
+
+msgctxt "Contact.links"
+msgid "Quotes (Shipping)"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Product"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Product Category"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Product Brand"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Quote"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Quote Item"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Tax"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Shipping Provider"
+msgstr ""
+
+msgctxt "Global.scopeNames"
+msgid "Opportunity Item"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Products"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Product Categories"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Quotes"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Quote Items"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Taxes"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Shipping Providers"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Opportunity Items"
+msgstr ""
+
+msgctxt "Global.scopeNamesPlural"
+msgid "Product Brands"
+msgstr ""
+
+msgctxt "Opportunity.labels"
+msgid "Items"
+msgstr ""
+
+msgctxt "Opportunity.labels"
+msgid "Select Product"
+msgstr ""
+
+msgctxt "Opportunity.labels"
+msgid "Add Item"
+msgstr ""
+
+msgctxt "Opportunity.links"
+msgid "Quotes"
+msgstr ""
+
+msgctxt "Opportunity.links"
+msgid "Items"
+msgstr ""
+
+msgctxt "Opportunity.fields"
+msgid "Item List"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Qty"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Quantity"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Unit Price"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Amount"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Product"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Line Number"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Opportunity"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Amount (Converted)"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Unit Price (Converted)"
+msgstr ""
+
+msgctxt "OpportunityItem.fields"
+msgid "Stage"
+msgstr ""
+
+msgctxt "OpportunityItem.links"
+msgid "Opportunity"
+msgstr ""
+
+msgctxt "OpportunityItem.links"
+msgid "Product"
+msgstr ""
+
+msgctxt "OpportunityItem.labels"
+msgid "Opportunities"
+msgstr ""
+
+msgctxt "Product.labels"
+msgid "Create Product"
+msgstr ""
+
+msgctxt "Product.labels"
+msgid "Price"
+msgstr ""
+
+msgctxt "Product.labels"
+msgid "Brands"
+msgstr ""
+
+msgctxt "Product.labels"
+msgid "Categories"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Brand"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Part Number"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Category"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Pricing Type"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Pricing Factor"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Cost Price"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "List Price"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Unit Price"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Cost Price Currency"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "List Price Currency"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Unit Price Currency"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Cost Price (Converted)"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "List Price (Converted)"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Unit Price (Converted)"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "URL"
+msgstr ""
+
+msgctxt "Product.fields"
+msgid "Weight"
+msgstr ""
+
+msgctxt "Product.links"
+msgid "Brand"
+msgstr ""
+
+msgctxt "Product.links"
+msgid "Category"
+msgstr ""
+
+msgctxt "Product.options.pricingType"
+msgid "Same as List"
+msgstr ""
+
+msgctxt "Product.options.pricingType"
+msgid "Fixed"
+msgstr ""
+
+msgctxt "Product.options.pricingType"
+msgid "Discount from List"
+msgstr ""
+
+msgctxt "Product.options.pricingType"
+msgid "Markup over Cost"
+msgstr ""
+
+msgctxt "Product.options.pricingType"
+msgid "Profit Margin"
+msgstr ""
+
+msgctxt "Product.presetFilters"
+msgid "Available"
+msgstr ""
+
+msgctxt "ProductBrand.labels"
+msgid "Create Brand"
+msgstr ""
+
+msgctxt "ProductBrand.fields"
+msgid "Website"
+msgstr ""
+
+msgctxt "ProductBrand.links"
+msgid "Products"
+msgstr ""
+
+msgctxt "ProductCategory.labels"
+msgid "Create Category"
+msgstr ""
+
+msgctxt "ProductCategory.labels"
+msgid "Manage Categories"
+msgstr ""
+
+msgctxt "ProductCategory.labels"
+msgid "Products"
+msgstr ""
+
+msgctxt "ProductCategory.fields"
+msgid "Order"
+msgstr ""
+
+msgctxt "ProductCategory.fields"
+msgid "Child List"
+msgstr ""
+
+msgctxt "ProductCategory.links"
+msgid "Products"
+msgstr ""
+
+msgctxt "Quote.labels"
+msgid "Create Quote"
+msgstr ""
+
+msgctxt "Quote.labels"
+msgid "Taxes"
+msgstr ""
+
+msgctxt "Quote.labels"
+msgid "Shipping Providers"
+msgstr ""
+
+msgctxt "Quote.labels"
+msgid "Add Item"
+msgstr ""
+
+msgctxt "Quote.labels"
+msgid "Templates"
+msgstr ""
+
+msgctxt "Quote.labels"
+msgid "Items"
+msgstr ""
+
+msgctxt "Quote.labels"
+msgid "Email PDF"
+msgstr ""
+
+msgctxt "Quote.labels"
+msgid "Quote Items"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Status"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Quote Number"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Quote Number (auto-incremented)"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Invoice Number"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Account"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Opportunity"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Billing Address"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Shipping Address"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Billing Contact"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Shipping Contact"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Tax"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Tax Rate"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Shipping Cost"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Shipping Provider"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Tax Amount"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Discount Amount"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Amount"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Pre-Discount Amount"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Grand Total Amount"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Item List"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Date Quoted"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Date Invoiced"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Weight"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Amount (converted)"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Tax Amount (converted)"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Shipping Cost (converted)"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Pre-Discount Amount (converted)"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Discount Amount (converted)"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Grand Total Amount (converted)"
+msgstr ""
+
+msgctxt "Quote.fields"
+msgid "Currency"
+msgstr ""
+
+msgctxt "Quote.links"
+msgid "Items"
+msgstr ""
+
+msgctxt "Quote.links"
+msgid "Billing Contact"
+msgstr ""
+
+msgctxt "Quote.links"
+msgid "Shipping Contact"
+msgstr ""
+
+msgctxt "Quote.links"
+msgid "Opportunity"
+msgstr ""
+
+msgctxt "Quote.links"
+msgid "Account"
+msgstr ""
+
+msgctxt "Quote.links"
+msgid "Tax"
+msgstr ""
+
+msgctxt "Quote.options.status"
+msgid "Draft"
+msgstr ""
+
+msgctxt "Quote.options.status"
+msgid "In Review"
+msgstr ""
+
+msgctxt "Quote.options.status"
+msgid "Presented"
+msgstr ""
+
+msgctxt "Quote.options.status"
+msgid "Approved"
+msgstr ""
+
+msgctxt "Quote.options.status"
+msgid "Rejected"
+msgstr ""
+
+msgctxt "Quote.options.status"
+msgid "Canceled"
+msgstr ""
+
+msgctxt "Quote.presetFilters"
+msgid "Actual"
+msgstr ""
+
+msgctxt "Quote.presetFilters"
+msgid "Approved"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Name"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Qty"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Quantity"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "List Price"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Unit Price"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Amount"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Tax Rate"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Product"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Line Number"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Quote"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Weight"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Unit Weight"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Description"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Discount (%)"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Amount (Converted)"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Unit Price (Converted)"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "List Price (Converted)"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Account"
+msgstr ""
+
+msgctxt "QuoteItem.fields"
+msgid "Quote Status"
+msgstr ""
+
+msgctxt "QuoteItem.links"
+msgid "Quote"
+msgstr ""
+
+msgctxt "QuoteItem.links"
+msgid "Product"
+msgstr ""
+
+msgctxt "QuoteItem.links"
+msgid "Account"
+msgstr ""
+
+msgctxt "QuoteItem.labels"
+msgid "Quotes"
+msgstr ""
+
+msgctxt "ShippingProvider.labels"
+msgid "Create Shipping Provider"
+msgstr ""
+
+msgctxt "ShippingProvider.fields"
+msgid "Website"
+msgstr ""
+
+msgctxt "Tax.labels"
+msgid "Create Tax"
+msgstr ""
+
+msgctxt "Tax.fields"
+msgid "Rate"
+msgstr ""
