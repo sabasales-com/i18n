@@ -9281,127 +9281,127 @@ msgstr "blockquote"
 
 msgctxt "Stream.syntaxItems"
 msgid "link"
-msgstr "link"
+msgstr "پیوند"
 
 msgctxt "Team.fields"
 msgid "Name"
-msgstr "Name"
+msgstr "نام"
 
 msgctxt "Team.fields"
 msgid "Roles"
-msgstr "Roles"
+msgstr "نقش‌ها"
 
 msgctxt "Team.fields"
 msgid "Layout Set"
-msgstr "Layout Set"
+msgstr "چیدمات قالب"
 
 msgctxt "Team.fields"
 msgid "Position List"
-msgstr "Position List"
+msgstr "لیست سمت‌ها"
 
 msgctxt "Team.links"
 msgid "Users"
-msgstr "Users"
+msgstr "کاربرها"
 
 msgctxt "Team.links"
 msgid "Notes"
-msgstr "Notes"
+msgstr "یادداشت‌ها"
 
 msgctxt "Team.links"
 msgid "Roles"
-msgstr "Roles"
+msgstr "نقش‌ها"
 
 msgctxt "Team.links"
 msgid "Layout Set"
-msgstr "Layout Set"
+msgstr "چیدمات قالب"
 
 msgctxt "Team.links"
 msgid "Group Email Accounts"
-msgstr "Group Email Accounts"
+msgstr "حساب های ایمیل گروهی"
 
 msgctxt "Team.tooltips"
 msgid "Access Roles. Users of this team obtain access control level from selected roles."
-msgstr "Access Roles. Users of this team obtain access control level from selected roles."
+msgstr "دسترسی به نقشها کاربران این تیم سطح کنترل دسترسی را از نقشهای انتخابی بدست می آورند."
 
 msgctxt "Team.tooltips"
 msgid "Available positions in this team. E.g. Salesperson, Manager."
-msgstr "Available positions in this team. E.g. Salesperson, Manager."
+msgstr "موقعیت های موجود در این تیم. به عنوان مثال. مدیر فروش ، مدیر"
 
 msgctxt "Team.labels"
 msgid "Create Team"
-msgstr "Create Team"
+msgstr "ایجاد تیم"
 
 msgctxt "Template.fields"
 msgid "Name"
-msgstr "Name"
+msgstr "نام"
 
 msgctxt "Template.fields"
 msgid "Body"
-msgstr "Body"
+msgstr "متن بدنه"
 
 msgctxt "Template.fields"
 msgid "Entity Type"
-msgstr "Entity Type"
+msgstr "نوع موجودیت"
 
 msgctxt "Template.fields"
 msgid "Header"
-msgstr "Header"
+msgstr "سرتیتر"
 
 msgctxt "Template.fields"
 msgid "Footer"
-msgstr "Footer"
+msgstr "پاورقی"
 
 msgctxt "Template.fields"
 msgid "Left Margin"
-msgstr "Left Margin"
+msgstr "فاصله چپ"
 
 msgctxt "Template.fields"
 msgid "Top Margin"
-msgstr "Top Margin"
+msgstr "فاصله بالا"
 
 msgctxt "Template.fields"
 msgid "Right Margin"
-msgstr "Right Margin"
+msgstr "فاصله راست"
 
 msgctxt "Template.fields"
 msgid "Bottom Margin"
-msgstr "Bottom Margin"
+msgstr "فاصله پایین"
 
 msgctxt "Template.fields"
 msgid "Print Footer"
-msgstr "Print Footer"
+msgstr "چاپ پاورقی"
 
 msgctxt "Template.fields"
 msgid "Print Header on each page"
-msgstr "Print Header on each page"
+msgstr "چاپ هدر در هر صفحه"
 
 msgctxt "Template.fields"
 msgid "Footer Position"
-msgstr "Footer Position"
+msgstr "موقعیت پاورقی"
 
 msgctxt "Template.fields"
 msgid "Header Position"
-msgstr "Header Position"
+msgstr "موقعیت هدر"
 
 msgctxt "Template.fields"
 msgid "Available Placeholders"
-msgstr "Available Placeholders"
+msgstr "متغیرهای موجود"
 
 msgctxt "Template.fields"
 msgid "Page Orientation"
-msgstr "Page Orientation"
+msgstr "جهت صفحه"
 
 msgctxt "Template.fields"
 msgid "Paper Format"
-msgstr "Paper Format"
+msgstr "قالب کاغذ"
 
 msgctxt "Template.fields"
 msgid "Page Width (mm)"
-msgstr "Page Width (mm)"
+msgstr "عرض صفحه (میلی متر)"
 
 msgctxt "Template.fields"
 msgid "Page Height (mm)"
-msgstr "Page Height (mm)"
+msgstr "ارتفاع صفحه (میلی متر)"
 
 msgctxt "Template.fields"
 msgid "Font"
