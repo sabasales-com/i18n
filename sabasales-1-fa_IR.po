@@ -9405,39 +9405,39 @@ msgstr "ارتفاع صفحه (میلی متر)"
 
 msgctxt "Template.fields"
 msgid "Font"
-msgstr "Font"
+msgstr "قلم"
 
 msgctxt "Template.labels"
 msgid "Create Template"
-msgstr "Create Template"
+msgstr "ایجاد الگو"
 
 msgctxt "Template.options.pageOrientation"
 msgid "Portrait"
-msgstr "Portrait"
+msgstr "پرتره"
 
 msgctxt "Template.options.pageOrientation"
 msgid "Landscape"
-msgstr "Landscape"
+msgstr "چشم انداز"
 
 msgctxt "Template.options.pageFormat"
 msgid "Custom"
-msgstr "Custom"
+msgstr "سفارشی"
 
 msgctxt "Template.options.placeholders"
 msgid "Page break"
-msgstr "Page break"
+msgstr "شکستن صفحه"
 
 msgctxt "Template.options.placeholders"
 msgid "Today (date)"
-msgstr "Today (date)"
+msgstr "امروز (تاریخ)"
 
 msgctxt "Template.options.placeholders"
 msgid "Now (date-time)"
-msgstr "Now (date-time)"
+msgstr "اکنون (تاریخ-زمان)"
 
 msgctxt "Template.options.fontFace"
 msgid "AlArabiya"
-msgstr "AlArabiya"
+msgstr "فارسی"
 
 msgctxt "Template.options.fontFace"
 msgid "Aefurat"
@@ -9557,143 +9557,143 @@ msgstr "Copy-paste needed placeholder to Header, Body or Footer."
 
 msgctxt "User.fields"
 msgid "Name"
-msgstr "Name"
+msgstr "نام"
 
 msgctxt "User.fields"
 msgid "User Name"
-msgstr "User Name"
+msgstr "نام کاربری"
 
 msgctxt "User.fields"
 msgid "Title"
-msgstr "Title"
+msgstr "عنوان"
 
 msgctxt "User.fields"
 msgid "Type"
-msgstr "Type"
+msgstr "نوع"
 
 msgctxt "User.fields"
 msgid "Is Admin"
-msgstr "Is Admin"
+msgstr "مدیر است"
 
 msgctxt "User.fields"
 msgid "Default Team"
-msgstr "Default Team"
+msgstr "تیم پیش فرض"
 
 msgctxt "User.fields"
 msgid "Email"
-msgstr "Email"
+msgstr "ایمیل"
 
 msgctxt "User.fields"
 msgid "Phone"
-msgstr "Phone"
+msgstr "تلفن"
 
 msgctxt "User.fields"
 msgid "Roles"
-msgstr "Roles"
+msgstr "نقش‌ها"
 
 msgctxt "User.fields"
 msgid "Portals"
-msgstr "Portals"
+msgstr "پورتال‌ها"
 
 msgctxt "User.fields"
 msgid "Portal Roles"
-msgstr "Portal Roles"
+msgstr "نقش‌های پورتال"
 
 msgctxt "User.fields"
 msgid "Position"
-msgstr "Position"
+msgstr "سمت"
 
 msgctxt "User.fields"
 msgid "Password"
-msgstr "Password"
+msgstr "رمزعبور"
 
 msgctxt "User.fields"
 msgid "Current Password"
-msgstr "Current Password"
+msgstr "گذرواژه فعلی"
 
 msgctxt "User.fields"
 msgid "Confirm Password"
-msgstr "Confirm Password"
+msgstr "رمز عبور را تأیید کنید"
 
 msgctxt "User.fields"
 msgid "New Password"
-msgstr "New Password"
+msgstr "رمز عبور جدید"
 
 msgctxt "User.fields"
 msgid "Confirm New Password"
-msgstr "Confirm New Password"
+msgstr "گذرواژه جدید را تأیید کنید"
 
 msgctxt "User.fields"
 msgid "Your current password"
-msgstr "Your current password"
+msgstr "گذرواژه فعلی شما"
 
 msgctxt "User.fields"
 msgid "Avatar"
-msgstr "Avatar"
+msgstr "آواتار"
 
 msgctxt "User.fields"
 msgid "Is Active"
-msgstr "Is Active"
+msgstr "فعال است"
 
 msgctxt "User.fields"
 msgid "Is Portal User"
-msgstr "Is Portal User"
+msgstr "کاربر پورتال است"
 
 msgctxt "User.fields"
 msgid "Contact"
-msgstr "Contact"
+msgstr "شخص"
 
 msgctxt "User.fields"
 msgid "Accounts"
-msgstr "Accounts"
+msgstr "سازمان‌ها"
 
 msgctxt "User.fields"
 msgid "Account (Primary)"
-msgstr "Account (Primary)"
+msgstr "سازمان ‫(‬اصلی‫)"
 
 msgctxt "User.fields"
 msgid "Send Email with Access Info to User"
-msgstr "Send Email with Access Info to User"
+msgstr "ارسال ایمیل با اطلاعات دسترسی به کاربر"
 
 msgctxt "User.fields"
 msgid "Portal"
-msgstr "Portal"
+msgstr "پورتال"
 
 msgctxt "User.fields"
 msgid "Gender"
-msgstr "Gender"
+msgstr "جنسیت"
 
 msgctxt "User.fields"
 msgid "Position in Team"
-msgstr "Position in Team"
+msgstr "سمت شما در تیم"
 
 msgctxt "User.fields"
 msgid "IP Address"
-msgstr "IP Address"
+msgstr "آدرس پروتکل اینترنت"
 
 msgctxt "User.fields"
 msgid "Password Preview"
-msgstr "Password Preview"
+msgstr " نمایش گذرواژه"
 
 msgctxt "User.fields"
 msgid "Is Super Admin"
-msgstr "Is Super Admin"
+msgstr "مدیر سیستم"
 
 msgctxt "User.fields"
 msgid "Last Access"
-msgstr "Last Access"
+msgstr "آخرین دسترسی‌ها"
 
 msgctxt "User.fields"
 msgid "API Key"
-msgstr "API Key"
+msgstr "کلید دسترسی"
 
 msgctxt "User.fields"
 msgid "Secret Key"
-msgstr "Secret Key"
+msgstr "کلید امن"
 
 msgctxt "User.fields"
 msgid "Dashboard Template"
-msgstr "Dashboard Template"
+msgstr "قالب داشبورد"
 
 msgctxt "User.fields"
 msgid "2FA"
@@ -9701,11 +9701,11 @@ msgstr "2FA"
 
 msgctxt "User.fields"
 msgid "Authentication Method"
-msgstr "Authentication Method"
+msgstr "متد احراز هویت"
 
 msgctxt "User.fields"
 msgid "Enable 2-Factor Authentication"
-msgstr "Enable 2-Factor Authentication"
+msgstr "تأیید هویت 2-فاکتور را فعال کنید"
 
 msgctxt "User.fields"
 msgid "2FA Method"
@@ -9717,103 +9717,103 @@ msgstr "2FA TOTP Secret"
 
 msgctxt "User.links"
 msgid "Default Team"
-msgstr "Default Team"
+msgstr "تیم پیش فرض"
 
 msgctxt "User.links"
 msgid "Teams"
-msgstr "Teams"
+msgstr "گروه‌ها"
 
 msgctxt "User.links"
 msgid "Roles"
-msgstr "Roles"
+msgstr "نقش‌ها"
 
 msgctxt "User.links"
 msgid "Notes"
-msgstr "Notes"
+msgstr "یادداشت‌ها"
 
 msgctxt "User.links"
 msgid "Portals"
-msgstr "Portals"
+msgstr "پورتال‌ها"
 
 msgctxt "User.links"
 msgid "Portal Roles"
-msgstr "Portal Roles"
+msgstr "نقش‌های پورتال"
 
 msgctxt "User.links"
 msgid "Contact"
-msgstr "Contact"
+msgstr "شخص"
 
 msgctxt "User.links"
 msgid "Accounts"
-msgstr "Accounts"
+msgstr "سازمان‌ها"
 
 msgctxt "User.links"
 msgid "Account (Primary)"
-msgstr "Account (Primary)"
+msgstr "سازمان ‫(‬اصلی‫)"
 
 msgctxt "User.links"
 msgid "Tasks"
-msgstr "Tasks"
+msgstr "وظایف"
 
 msgctxt "User.links"
 msgid "User Data"
-msgstr "User Data"
+msgstr "اطلاعات کاربر"
 
 msgctxt "User.links"
 msgid "Dashboard Template"
-msgstr "Dashboard Template"
+msgstr "قالب داشبورد"
 
 msgctxt "User.labels"
 msgid "Create User"
-msgstr "Create User"
+msgstr "ایجادکاربر"
 
 msgctxt "User.labels"
 msgid "Generate"
-msgstr "Generate"
+msgstr "سازنده"
 
 msgctxt "User.labels"
 msgid "Access"
-msgstr "Access"
+msgstr "دسترسی"
 
 msgctxt "User.labels"
 msgid "Preferences"
-msgstr "Preferences"
+msgstr "ترجیحات‌من"
 
 msgctxt "User.labels"
 msgid "Change Password"
-msgstr "Change Password"
+msgstr "تغییر رمز عبور"
 
 msgctxt "User.labels"
 msgid "Teams and Access Control"
-msgstr "Teams and Access Control"
+msgstr "تیم ها و کنترل دسترسی"
 
 msgctxt "User.labels"
 msgid "Forgot Password?"
-msgstr "Forgot Password?"
+msgstr "رمز عبور را فراموش کرده اید؟"
 
 msgctxt "User.labels"
 msgid "Password Change Request"
-msgstr "Password Change Request"
+msgstr "درخواست تغییر رمز عبور"
 
 msgctxt "User.labels"
 msgid "Email Address"
-msgstr "Email Address"
+msgstr "آدرس ایمیل"
 
 msgctxt "User.labels"
 msgid "External Accounts"
-msgstr "External Accounts"
+msgstr "حسابهای خارجی"
 
 msgctxt "User.labels"
 msgid "Email Accounts"
-msgstr "Email Accounts"
+msgstr "حسابهای ایمیل"
 
 msgctxt "User.labels"
 msgid "Portal"
-msgstr "Portal"
+msgstr "پورتال"
 
 msgctxt "User.labels"
 msgid "Create Portal User"
-msgstr "Create Portal User"
+msgstr "ایجاد کاربر"
 
 msgctxt "User.labels"
 msgid "Proceed w/o Contact"
@@ -9821,123 +9821,124 @@ msgstr "Proceed w/o Contact"
 
 msgctxt "User.labels"
 msgid "Generate New API Key"
-msgstr "Generate New API Key"
+msgstr "ساخت کلید جدید"
 
 msgctxt "User.labels"
 msgid "Generate New Password"
-msgstr "Generate New Password"
+msgstr "ساخت رمز جدید"
 
 msgctxt "User.labels"
 msgid "Code"
-msgstr "Code"
+msgstr "کد"
 
 msgctxt "User.labels"
 msgid "Back to login form"
-msgstr "Back to login form"
+msgstr "بازگشت به فرم ورود"
 
 msgctxt "User.labels"
 msgid "Requirements"
-msgstr "Requirements"
+msgstr "الزامات سیستم"
 
 msgctxt "User.labels"
 msgid "Security"
-msgstr "Security"
+msgstr "امنیت"
 
 msgctxt "User.labels"
 msgid "Reset 2FA"
-msgstr "Reset 2FA"
+msgstr "تنظیم مجدد 2FA"
 
 msgctxt "User.labels"
 msgid "Secret"
-msgstr "Secret"
+msgstr "محرمانه"
 
 msgctxt "User.tooltips"
 msgid "All records created by this user will be related to this team by default."
-msgstr "All records created by this user will be related to this team by default."
+msgstr "کلیه سوابق ایجاد شده توسط این کاربر بطور پیش فرض مربوط به این تیم خواهد بود."
 
 msgctxt "User.tooltips"
 msgid "Letters a-z, numbers 0-9, dots, hyphens, @-signs and underscores are allowed."
-msgstr "Letters a-z, numbers 0-9, dots, hyphens, @-signs and underscores are allowed."
+msgstr "حروف a-z ، اعداد 0-9 ، نقاط ، hyphen ، @-علائم و زیرنویس ها مجاز است."
 
 msgctxt "User.tooltips"
 msgid "Admin user can access everything."
-msgstr "Admin user can access everything."
+msgstr "کاربر سرپرست می تواند به همه چیز دسترسی داشته باشد."
 
 msgctxt "User.tooltips"
 msgid "If unchecked then user won't be able to login."
-msgstr "If unchecked then user won't be able to login."
+msgstr "در صورت عدم کنترل ، کاربر قادر به ورود به سیستم نخواهد بود."
 
 msgctxt "User.tooltips"
 msgid "Teams which this user belongs to. Access control level is inherited from team's roles."
-msgstr "Teams which this user belongs to. Access control level is inherited from team's roles."
+msgstr "تیم هایی که این کاربر به آنها تعلق دارد. سطح کنترل دسترسی از نقش تیم به ارث می رسد."
 
 msgctxt "User.tooltips"
 msgid ""
 "Additional access roles. Use it if user doesn't belong to any team or you need to extend access "
 "control level exclusively for this user."
 msgstr ""
-"Additional access roles. Use it if user doesn't belong to any team or you need to extend access "
-"control level exclusively for this user."
+"نقش دسترسی اضافی. اگر کاربر متعلق به هیچ تیمی نیست از آن استفاده کنید یا باید سطح کنترل دسترسی را "
+"منحصراً برای این کاربر گسترش دهید."
 
 msgctxt "User.tooltips"
 msgid "Additional portal roles. Use it to extend access control level exclusively for this user."
-msgstr "Additional portal roles. Use it to extend access control level exclusively for this user."
+msgstr ""
+"نقش های پرتال اضافی. از آن استفاده کنید تا سطح کنترل دسترسی را منحصراً برای این کاربر گسترش دهید."
 
 msgctxt "User.tooltips"
 msgid "Portals which this user has access to."
-msgstr "Portals which this user has access to."
+msgstr "پورتال هایی که این کاربر به آنها دسترسی دارد."
 
 msgctxt "User.messages"
 msgid "Must be at least {length} characters long."
-msgstr "Must be at least {length} characters long."
+msgstr "حداقل {length} کاراکتر باید باشد‫."
 
 msgctxt "User.messages"
 msgid "Must contain at least {count} letter(s)."
-msgstr "Must contain at least {count} letter(s)."
+msgstr "باید حاوی {count} کاراکتر باشد"
 
 msgctxt "User.messages"
 msgid "Must contain at least {count} digit(s)."
-msgstr "Must contain at least {count} digit(s)."
+msgstr "باید حاوی {count} عدد باش"
 
 msgctxt "User.messages"
 msgid "Must contain letters of both upper and lower case."
-msgstr "Must contain letters of both upper and lower case."
+msgstr "حروف دارای حروف بزرگ و کوچک باشد."
 
 msgctxt "User.messages"
 msgid "Password will be sent to user's email address."
-msgstr "Password will be sent to user's email address."
+msgstr "رمز عبور به آدرس ایمیل کاربر ارسال می شود."
 
 msgctxt "User.messages"
 msgid "Password has been changed"
-msgstr "Password has been changed"
+msgstr "رمز عبور تغییر کرده است"
 
 msgctxt "User.messages"
 msgid "Username can not be empty"
-msgstr "Username can not be empty"
+msgstr "نام کاربری نمی تواند خالی باشد"
 
 msgctxt "User.messages"
 msgid "Wrong username/password"
-msgstr "Wrong username/password"
+msgstr "نام کاربری / گذرواژه اشتباه است"
 
 msgctxt "User.messages"
 msgid "Email Address can not be empty"
-msgstr "Email Address can not be empty"
+msgstr "آدرس ایمیل نمی تواند خالی باشد"
 
 msgctxt "User.messages"
 msgid "Username/Email Address not found"
-msgstr "Username/Email Address not found"
+msgstr "نام کاربری / آدرس ایمیل یافت نشد"
 
 msgctxt "User.messages"
 msgid "Forbidden, please try later"
-msgstr "Forbidden, please try later"
+msgstr "ممنوع است ، لطفاً بعداً امتحان کنید"
 
 msgctxt "User.messages"
 msgid "The unique URL has been sent to the specified email address."
-msgstr "The unique URL has been sent to the specified email address."
+msgstr "URL منحصر به فرد به آدرس ایمیل مشخص شده ارسال شده است."
 
 msgctxt "User.messages"
 msgid "Password has been changed."
-msgstr "Password has been changed."
+msgstr "رمز عبور تغییر کرده است."
 
 msgctxt "User.messages"
 msgid ""
@@ -9993,39 +9994,39 @@ msgstr ""
 
 msgctxt "User.options.gender"
 msgid "Not Set"
-msgstr "Not Set"
+msgstr "تنظیم نشده"
 
 msgctxt "User.options.gender"
 msgid "Male"
-msgstr "Male"
+msgstr "مرد"
 
 msgctxt "User.options.gender"
 msgid "Female"
-msgstr "Female"
+msgstr "زن"
 
 msgctxt "User.options.gender"
 msgid "Neutral"
-msgstr "Neutral"
+msgstr "خنثی"
 
 msgctxt "User.options.type"
 msgid "Regular"
-msgstr "Regular"
+msgstr "عادی"
 
 msgctxt "User.options.type"
 msgid "Admin"
-msgstr "Admin"
+msgstr "مدیر"
 
 msgctxt "User.options.type"
 msgid "Portal"
-msgstr "Portal"
+msgstr "پرتال"
 
 msgctxt "User.options.type"
 msgid "System"
-msgstr "System"
+msgstr "سیستم"
 
 msgctxt "User.options.type"
 msgid "Super-Admin"
-msgstr "Super-Admin"
+msgstr "ادمین"
 
 msgctxt "User.options.type"
 msgid "API"
@@ -10045,51 +10046,51 @@ msgstr "Only My Team"
 
 msgctxt "User.presetFilters"
 msgid "Active"
-msgstr "Active"
+msgstr "فعال"
 
 msgctxt "User.presetFilters"
 msgid "Portal Active"
-msgstr "Portal Active"
+msgstr "پورتال فعال"
 
 msgctxt "User.presetFilters"
 msgid "API Active"
-msgstr "API Active"
+msgstr "API فعال"
 
 msgctxt "Webhook.labels"
 msgid "Create Webhook"
-msgstr "Create Webhook"
+msgstr "ایجاد وب‌هوک"
 
 msgctxt "Webhook.fields"
 msgid "Event"
-msgstr "Event"
+msgstr "رویداد"
 
 msgctxt "Webhook.fields"
 msgid "URL"
-msgstr "URL"
+msgstr "آدرس اینترنتی"
 
 msgctxt "Webhook.fields"
 msgid "Is Active"
-msgstr "Is Active"
+msgstr "فعال است"
 
 msgctxt "Webhook.fields"
 msgid "API User"
-msgstr "API User"
+msgstr "کاربر API"
 
 msgctxt "Webhook.fields"
 msgid "Entity Type"
-msgstr "Entity Type"
+msgstr "نوع موجودیت"
 
 msgctxt "Webhook.fields"
 msgid "Field"
-msgstr "Field"
+msgstr "فیلد"
 
 msgctxt "Webhook.fields"
 msgid "Secret Key"
-msgstr "Secret Key"
+msgstr "کلید امن"
 
 msgctxt "Webhook.links"
 msgid "User"
-msgstr "User"
+msgstr "کاربر"
 
 msgctxt "install.labels"
 msgid "SnapyCloud Installation"
@@ -10691,143 +10692,143 @@ msgstr "Readable"
 
 msgctxt "Base.labels"
 msgid "Create {entityTypeTranslated}"
-msgstr "Create {entityTypeTranslated}"
+msgstr "ایجاد {entityTypeTranslated}"
 
 msgctxt "BasePlus.links"
 msgid "Meetings"
-msgstr "Meetings"
+msgstr "جلسات"
 
 msgctxt "BasePlus.links"
 msgid "Calls"
-msgstr "Calls"
+msgstr "تماس‌ها"
 
 msgctxt "BasePlus.links"
 msgid "Tasks"
-msgstr "Tasks"
+msgstr "وظایف"
 
 msgctxt "BasePlus.labels"
 msgid "Create {entityTypeTranslated}"
-msgstr "Create {entityTypeTranslated}"
+msgstr "ایجاد {entityTypeTranslated}"
 
 msgctxt "Company.fields"
 msgid "Billing Address"
-msgstr "Billing Address"
+msgstr "آدرس صورتحساب"
 
 msgctxt "Company.fields"
 msgid "Shipping Address"
-msgstr "Shipping Address"
+msgstr "آدرس حمل و نقل"
 
 msgctxt "Company.fields"
 msgid "Website"
-msgstr "Website"
+msgstr "وب‌سایت"
 
 msgctxt "Company.links"
 msgid "Meetings"
-msgstr "Meetings"
+msgstr "جلسات"
 
 msgctxt "Company.links"
 msgid "Calls"
-msgstr "Calls"
+msgstr "تماس‌ها"
 
 msgctxt "Company.links"
 msgid "Tasks"
-msgstr "Tasks"
+msgstr "وظایف"
 
 msgctxt "Company.labels"
 msgid "Create {entityTypeTranslated}"
-msgstr "Create {entityTypeTranslated}"
+msgstr "ایجاد {entityTypeTranslated}"
 
 msgctxt "Event.fields"
 msgid "Parent"
-msgstr "Parent"
+msgstr "متعلق"
 
 msgctxt "Event.fields"
 msgid "Date Start"
-msgstr "Date Start"
+msgstr "تاریخ شروع"
 
 msgctxt "Event.fields"
 msgid "Date End"
-msgstr "Date End"
+msgstr "تاریخ پایان"
 
 msgctxt "Event.fields"
 msgid "Duration"
-msgstr "Duration"
+msgstr "مدت زمان"
 
 msgctxt "Event.fields"
 msgid "Status"
-msgstr "Status"
+msgstr "وضعیت"
 
 msgctxt "Event.fields"
 msgid "Reminders"
-msgstr "Reminders"
+msgstr "یادآوری"
 
 msgctxt "Event.fields"
 msgid "Date Start (all day)"
-msgstr "Date Start (all day)"
+msgstr "شروع تاریخ (تمام روز)"
 
 msgctxt "Event.fields"
 msgid "Date End (all day)"
-msgstr "Date End (all day)"
+msgstr "تاریخ پایان (تمام روز)"
 
 msgctxt "Event.fields"
 msgid "Is All-Day"
-msgstr "Is All-Day"
+msgstr "همه روزه است"
 
 msgctxt "Event.links"
 msgid "Parent"
-msgstr "Parent"
+msgstr "متعلق"
 
 msgctxt "Event.options.status"
 msgid "Planned"
-msgstr "Planned"
+msgstr "برنامه ریزی شده"
 
 msgctxt "Event.options.status"
 msgid "Held"
-msgstr "Held"
+msgstr "برگزار شد"
 
 msgctxt "Event.options.status"
 msgid "Not Held"
-msgstr "Not Held"
+msgstr "برگزار نشده است"
 
 msgctxt "Event.labels"
 msgid "Create {entityTypeTranslated}"
-msgstr "Create {entityTypeTranslated}"
+msgstr "ایجاد {entityTypeTranslated}"
 
 msgctxt "Event.labels"
 msgid "Schedule {entityTypeTranslated}"
-msgstr "Schedule {entityTypeTranslated}"
+msgstr "زمانبندی {entityTypeTranslated}"
 
 msgctxt "Event.labels"
 msgid "Log {entityTypeTranslated}"
-msgstr "Log {entityTypeTranslated}"
+msgstr "لاگ {entityTypeTranslated}"
 
 msgctxt "Event.labels"
 msgid "Set Held"
-msgstr "Set Held"
+msgstr "برگزار شد"
 
 msgctxt "Event.labels"
 msgid "Set Not Held"
-msgstr "Set Not Held"
+msgstr "برگزار ‌نشد"
 
 msgctxt "Event.massActions"
 msgid "Set Held"
-msgstr "Set Held"
+msgstr "برگزار شد"
 
 msgctxt "Event.massActions"
 msgid "Set Not Held"
-msgstr "Set Not Held"
+msgstr "برگزار ‌نشد"
 
 msgctxt "Event.presetFilters"
 msgid "Planned"
-msgstr "Planned"
+msgstr "برنامه ریزی شده"
 
 msgctxt "Event.presetFilters"
 msgid "Held"
-msgstr "Held"
+msgstr "برگزار شد"
 
 msgctxt "Event.presetFilters"
 msgid "Today's"
-msgstr "Today's"
+msgstr "امروز"
 
 msgctxt "Person.fields"
 msgid "Address"
