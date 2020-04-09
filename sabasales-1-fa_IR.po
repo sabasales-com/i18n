@@ -8782,139 +8782,139 @@ msgstr "سوابق حذف شده را پاک کنید"
 
 msgctxt "Settings.fields"
 msgid "Address Country Autocomplete List"
-msgstr "Address Country Autocomplete List"
+msgstr "لیست کامل لیست آدرس کشور"
 
 msgctxt "Settings.fields"
 msgid "Address City Autocomplete List"
-msgstr "Address City Autocomplete List"
+msgstr "آدرس فهرست خودکار شهر"
 
 msgctxt "Settings.fields"
 msgid "Address State Autocomplete List"
-msgstr "Address State Autocomplete List"
+msgstr "لیست خودکار وضعیت آدرس"
 
 msgctxt "Settings.fields"
 msgid "Fiscal Year Start"
-msgstr "Fiscal Year Start"
+msgstr "شروع سال مالی"
 
 msgctxt "Settings.fields"
 msgid "Jobs Run in Parallel"
-msgstr "Jobs Run in Parallel"
+msgstr "جاب‌های فعال بصورت موازی"
 
 msgctxt "Settings.fields"
 msgid "Jobs Max Portion"
-msgstr "Jobs Max Portion"
+msgstr "حداکثر جاب بخش"
 
 msgctxt "Settings.fields"
 msgid "Jobs Pool Concurrency Number"
-msgstr "Jobs Pool Concurrency Number"
+msgstr "عدد جاب‌های همزمان"
 
 msgctxt "Settings.fields"
 msgid "Daemon Interval"
-msgstr "Daemon Interval"
+msgstr "فاصله دیمون"
 
 msgctxt "Settings.fields"
 msgid "Daemon Max Process Number"
-msgstr "Daemon Max Process Number"
+msgstr "بیشترین تعداد پردازش دیمون"
 
 msgctxt "Settings.fields"
 msgid "Daemon Process Timeout"
-msgstr "Daemon Process Timeout"
+msgstr "غیرفعال شدن دیمون تایم اوت"
 
 msgctxt "Settings.fields"
 msgid "Disable Cron"
-msgstr "Disable Cron"
+msgstr "کرون را غیرفعال کنید"
 
 msgctxt "Settings.fields"
 msgid "Maintenance Mode"
-msgstr "Maintenance Mode"
+msgstr "حالت تعمیر و نگهداری"
 
 msgctxt "Settings.fields"
 msgid "Use WebSocket"
-msgstr "Use WebSocket"
+msgstr "از WebSocket استفاده کنید"
 
 msgctxt "Settings.fields"
 msgid "Disable password recovery"
-msgstr "Disable password recovery"
+msgstr "بازیابی رمز عبور را غیرفعال کنید"
 
 msgctxt "Settings.fields"
 msgid "Disable password recovery for admin users"
-msgstr "Disable password recovery for admin users"
+msgstr "بازیابی رمز عبور را برای کاربران سرپرست غیرفعال کنید"
 
 msgctxt "Settings.fields"
 msgid "Length of generated passwords"
-msgstr "Length of generated passwords"
+msgstr "طول کلمات عبور تولید شده"
 
 msgctxt "Settings.fields"
 msgid "Minimum password length"
-msgstr "Minimum password length"
+msgstr "حداقل طول رمز عبور"
 
 msgctxt "Settings.fields"
 msgid "Number of letters required in password"
-msgstr "Number of letters required in password"
+msgstr "تعداد حروف مورد نیاز در رمز عبور"
 
 msgctxt "Settings.fields"
 msgid "Number of digits required in password"
-msgstr "Number of digits required in password"
+msgstr "تعداد ارقام مورد نیاز در رمز عبور"
 
 msgctxt "Settings.fields"
 msgid "Password must contain letters of both upper and lower case"
-msgstr "Password must contain letters of both upper and lower case"
+msgstr "رمز عبور باید حاوی حروف بزرگ و کوچک باشد"
 
 msgctxt "Settings.fields"
 msgid "Enable 2-Factor Authentication"
-msgstr "Enable 2-Factor Authentication"
+msgstr "تأیید هویت 2-فاکتور را فعال کنید"
 
 msgctxt "Settings.fields"
 msgid "Force regular users to set up 2FA"
-msgstr "Force regular users to set up 2FA"
+msgstr "کاربران معمولی را مجبور کنید که 2FA را تنظیم کنند"
 
 msgctxt "Settings.fields"
 msgid "Available 2FA methods"
-msgstr "Available 2FA methods"
+msgstr "روشهای 2FA موجود"
 
 msgctxt "Settings.options.weekStart"
 msgid "Sunday"
-msgstr "Sunday"
+msgstr "یکشنبه"
 
 msgctxt "Settings.options.weekStart"
 msgid "Monday"
-msgstr "Monday"
+msgstr "دوشنبه"
 
 msgctxt "Settings.options.currencyFormat"
 msgid "10 USD"
-msgstr "10 USD"
+msgstr "۱۰ ریال"
 
 msgctxt "Settings.options.currencyFormat"
 msgid "$10"
-msgstr "$10"
+msgstr "۱۰ریال"
 
 msgctxt "Settings.options.personNameFormat"
 msgid "First Last"
-msgstr "First Last"
+msgstr "اول آخر"
 
 msgctxt "Settings.options.personNameFormat"
 msgid "Last First"
-msgstr "Last First"
+msgstr "آخر اول"
 
 msgctxt "Settings.options.personNameFormat"
 msgid "First Middle Last"
-msgstr "First Middle Last"
+msgstr "اولی میانی آخری"
 
 msgctxt "Settings.options.personNameFormat"
 msgid "Last First Middle"
-msgstr "Last First Middle"
+msgstr "آخری اولی میانی"
 
 msgctxt "Settings.options.streamEmailNotificationsTypeList"
 msgid "Posts"
-msgstr "Posts"
+msgstr "پست‌ها"
 
 msgctxt "Settings.options.streamEmailNotificationsTypeList"
 msgid "Status updates"
-msgstr "Status updates"
+msgstr "به روزرسانی های وضعیت"
 
 msgctxt "Settings.options.streamEmailNotificationsTypeList"
 msgid "Received emails"
-msgstr "Received emails"
+msgstr "ایمیل دریافت کردیم"
 
 msgctxt "Settings.options.auth2FAMethodList"
 msgid "TOTP"
