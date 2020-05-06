@@ -6710,239 +6710,239 @@ msgstr ""
 
 msgctxt "Account.links"
 msgid "Quotes"
-msgstr ""
+msgstr "فاکتورها"
 
 msgctxt "Account.links"
 msgid "Quote Items"
-msgstr ""
+msgstr "آیتم‌ها"
 
 msgctxt "Admin.layouts"
 msgid "List (Item)"
-msgstr ""
+msgstr "لیست (آیتم)"
 
 msgctxt "Admin.layouts"
 msgid "Bottom Total"
-msgstr ""
+msgstr "جمع کل"
 
 msgctxt "Admin.fields"
 msgid "Auto-Increment"
-msgstr ""
+msgstr "افزایش خودکار"
 
 msgctxt "Contact.links"
 msgid "Quotes (Billing)"
-msgstr ""
+msgstr "فاکتورها (صورتحساب)"
 
 msgctxt "Contact.links"
 msgid "Quotes (Shipping)"
-msgstr ""
+msgstr "‫فاکتورها (حمل و نقل)"
 
 msgctxt "Global.scopeNames"
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 msgctxt "Global.scopeNames"
 msgid "Product Category"
-msgstr ""
+msgstr "دسته بندی محصول"
 
 msgctxt "Global.scopeNames"
 msgid "Product Brand"
-msgstr ""
+msgstr "برند محصول"
 
 msgctxt "Global.scopeNames"
 msgid "Quote"
-msgstr ""
+msgstr "فاکتور"
 
 msgctxt "Global.scopeNames"
 msgid "Quote Item"
-msgstr ""
+msgstr "‫آیتم‌ها"
 
 msgctxt "Global.scopeNames"
 msgid "Tax"
-msgstr ""
+msgstr "مالیات"
 
 msgctxt "Global.scopeNames"
 msgid "Shipping Provider"
-msgstr ""
+msgstr "سرویس‌های حمل و نقل"
 
 msgctxt "Global.scopeNames"
 msgid "Opportunity Item"
-msgstr ""
+msgstr "آیتم‌ فرصت"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Products"
-msgstr ""
+msgstr "محصولات"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Product Categories"
-msgstr ""
+msgstr "دسته‌بندی"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Quotes"
-msgstr ""
+msgstr "فاکتورها"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Quote Items"
-msgstr ""
+msgstr "آیتم‌ها"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Taxes"
-msgstr ""
+msgstr "مالیات"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Shipping Providers"
-msgstr ""
+msgstr "‫سرویس‌های حمل و نق"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Opportunity Items"
-msgstr ""
+msgstr "آیتم‌های‌ فرصت"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Product Brands"
-msgstr ""
+msgstr "برندهای محصول"
 
 msgctxt "Opportunity.labels"
 msgid "Items"
-msgstr ""
+msgstr "آیتم‌ها"
 
 msgctxt "Opportunity.labels"
 msgid "Select Product"
-msgstr ""
+msgstr "انتخاب محصول"
 
 msgctxt "Opportunity.labels"
 msgid "Add Item"
-msgstr ""
+msgstr "افزودن آیتم"
 
 msgctxt "Opportunity.links"
 msgid "Quotes"
-msgstr ""
+msgstr "فاکتورها"
 
 msgctxt "Opportunity.links"
 msgid "Items"
-msgstr ""
+msgstr "آیتم‌ها"
 
 msgctxt "Opportunity.fields"
 msgid "Item List"
-msgstr ""
+msgstr "لیست (آیتم)"
 
 msgctxt "OpportunityItem.fields"
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 msgctxt "OpportunityItem.fields"
 msgid "Qty"
-msgstr ""
+msgstr "کمیت"
 
 msgctxt "OpportunityItem.fields"
 msgid "Quantity"
-msgstr ""
+msgstr "تعداد"
 
 msgctxt "OpportunityItem.fields"
 msgid "Unit Price"
-msgstr ""
+msgstr "قیمت واحد"
 
 msgctxt "OpportunityItem.fields"
 msgid "Amount"
-msgstr ""
+msgstr "مبلغ"
 
 msgctxt "OpportunityItem.fields"
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 msgctxt "OpportunityItem.fields"
 msgid "Line Number"
-msgstr ""
+msgstr "شماره خط"
 
 msgctxt "OpportunityItem.fields"
 msgid "Opportunity"
-msgstr ""
+msgstr "فرصت"
 
 msgctxt "OpportunityItem.fields"
 msgid "Description"
-msgstr ""
+msgstr "توضیحات"
 
 msgctxt "OpportunityItem.fields"
 msgid "Amount (Converted)"
-msgstr ""
+msgstr "‫قیمت(تبدیل شده)"
 
 msgctxt "OpportunityItem.fields"
 msgid "Unit Price (Converted)"
-msgstr ""
+msgstr "‫واحد قیمت(تبدیل شده)"
 
 msgctxt "OpportunityItem.fields"
 msgid "Stage"
-msgstr ""
+msgstr "مرحله"
 
 msgctxt "OpportunityItem.links"
 msgid "Opportunity"
-msgstr ""
+msgstr "فرصت"
 
 msgctxt "OpportunityItem.links"
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 msgctxt "OpportunityItem.labels"
 msgid "Opportunities"
-msgstr ""
+msgstr "فرصت ها"
 
 msgctxt "Product.labels"
 msgid "Create Product"
-msgstr ""
+msgstr "محصول جدید"
 
 msgctxt "Product.labels"
 msgid "Price"
-msgstr ""
+msgstr "قیمت"
 
 msgctxt "Product.labels"
 msgid "Brands"
-msgstr ""
+msgstr "برند"
 
 msgctxt "Product.labels"
 msgid "Categories"
-msgstr ""
+msgstr "دسته‌بندی"
 
 msgctxt "Product.fields"
 msgid "Status"
-msgstr ""
+msgstr "وضعیت"
 
 msgctxt "Product.fields"
 msgid "Brand"
-msgstr ""
+msgstr "برند"
 
 msgctxt "Product.fields"
 msgid "Part Number"
-msgstr ""
+msgstr "شماره قطعه"
 
 msgctxt "Product.fields"
 msgid "Category"
-msgstr ""
+msgstr "دسته‌بندی"
 
 msgctxt "Product.fields"
 msgid "Pricing Type"
-msgstr ""
+msgstr "نوع قیمت گذاری"
 
 msgctxt "Product.fields"
 msgid "Pricing Factor"
-msgstr ""
+msgstr "فاکتور قیمت گذاری"
 
 msgctxt "Product.fields"
 msgid "Cost Price"
-msgstr ""
+msgstr "مبلغ هزینه"
 
 msgctxt "Product.fields"
 msgid "List Price"
-msgstr ""
+msgstr "لیست قیمت"
 
 msgctxt "Product.fields"
 msgid "Unit Price"
-msgstr ""
+msgstr "قیمت واحد"
 
 msgctxt "Product.fields"
 msgid "Cost Price Currency"
-msgstr ""
+msgstr "واحد پول هزینه"
 
 msgctxt "Product.fields"
 msgid "List Price Currency"
-msgstr ""
+msgstr "لیست قیمت ارز"
 
 msgctxt "Product.fields"
 msgid "Unit Price Currency"
@@ -6950,31 +6950,31 @@ msgstr ""
 
 msgctxt "Product.fields"
 msgid "Cost Price (Converted)"
-msgstr ""
+msgstr "مبلغ هزینه (تبدیل شده)"
 
 msgctxt "Product.fields"
 msgid "List Price (Converted)"
-msgstr ""
+msgstr "لیست قیمت(تبدیل شده)"
 
 msgctxt "Product.fields"
 msgid "Unit Price (Converted)"
-msgstr ""
+msgstr "‫واحد قیمت(تبدیل شده)"
 
 msgctxt "Product.fields"
 msgid "URL"
-msgstr ""
+msgstr "آدرس وب"
 
 msgctxt "Product.fields"
 msgid "Weight"
-msgstr ""
+msgstr "وزن"
 
 msgctxt "Product.links"
 msgid "Brand"
-msgstr ""
+msgstr "برند"
 
 msgctxt "Product.links"
 msgid "Category"
-msgstr ""
+msgstr "دسته‌بندی"
 
 msgctxt "Product.options.pricingType"
 msgid "Same as List"
