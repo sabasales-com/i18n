@@ -183,7 +183,7 @@ msgstr "زمان حدوسط رویداد(Catching)"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Conditional Intermediate Event (Catching)"
-msgstr ""
+msgstr "رویداد متوسط شرطی (Catching)"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "End Event"
@@ -223,11 +223,11 @@ msgstr ""
 
 msgctxt "BpmnFlowchart.elements"
 msgid "User Task"
-msgstr ""
+msgstr "وظیفه کاربر"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Task"
-msgstr ""
+msgstr "وظیفه"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Sequence Flow"
@@ -235,7 +235,7 @@ msgstr ""
 
 msgctxt "BpmnFlowchart.presetFilters"
 msgid "Manually Startable"
-msgstr ""
+msgstr "شروع به صورت دستی"
 
 msgctxt "BpmnFlowchart.presetFilters"
 msgid "Active w/ None Start Event"
@@ -243,95 +243,95 @@ msgstr ""
 
 msgctxt "BpmnFlowchart.presetFilters"
 msgid "Active"
-msgstr ""
+msgstr "فعال"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Text"
-msgstr ""
+msgstr "متن"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Trigger Type"
-msgstr ""
+msgstr "نوع شروع"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Timer Parameters"
-msgstr ""
+msgstr "پارامترهای تایمر"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Default Flow"
-msgstr ""
+msgstr "جریان پیش فرض"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "From"
-msgstr ""
+msgstr "از"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "To"
-msgstr ""
+msgstr "به"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Reply-To"
-msgstr ""
+msgstr "پاسخ دادن به"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "From Email Address"
-msgstr ""
+msgstr "از آدرس ایمیل"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "To Email Address"
-msgstr ""
+msgstr "به آدرس ایمیل"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Reply-To Email Address"
-msgstr ""
+msgstr "پاسخ به آدرس ایمیل"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "To Teams"
-msgstr ""
+msgstr "به تیمها"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "To Users"
-msgstr ""
+msgstr "به کاربران"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "To Contacts"
-msgstr ""
+msgstr "به مخاطبین"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Email Template"
-msgstr ""
+msgstr "الگوی ایمیل"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Do not store sent email"
-msgstr ""
+msgstr "ایمیل ارسالی را ذخیره نکنید"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Actions"
-msgstr ""
+msgstr "اقدامات"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Formula (script)"
-msgstr ""
+msgstr "فرمول (اسکریپ)"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Action Type"
-msgstr ""
+msgstr "نوع عمل"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Target User"
-msgstr ""
+msgstr "کاربر هدف"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Assignment"
-msgstr ""
+msgstr "واگذاری"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Target Team"
-msgstr ""
+msgstr "تیم هدف"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Target User Position"
-msgstr ""
+msgstr "موقعیت کاربر هدف"
 
 msgctxt "BpmnFlowchartElement.fields"
 msgid "Start Direction"
@@ -768,7 +768,7 @@ msgstr "فرایند"
 
 msgctxt "Global.scopeNames"
 msgid "Process User Task"
-msgstr ""
+msgstr "وظایف پردازشی کاربر"
 
 msgctxt "Global.scopeNames"
 msgid "Report Filter"
@@ -7274,80 +7274,80 @@ msgstr ""
 
 msgctxt "QuoteItem.fields"
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 msgctxt "QuoteItem.fields"
 msgid "Line Number"
-msgstr ""
+msgstr "شماره خط"
 
 msgctxt "QuoteItem.fields"
 msgid "Quote"
-msgstr ""
+msgstr "فاکتور"
 
 msgctxt "QuoteItem.fields"
 msgid "Weight"
-msgstr ""
+msgstr "وزن"
 
 msgctxt "QuoteItem.fields"
 msgid "Unit Weight"
-msgstr ""
+msgstr "واحد وزن"
 
 msgctxt "QuoteItem.fields"
 msgid "Description"
-msgstr ""
+msgstr "توضیحات"
 
 msgctxt "QuoteItem.fields"
 msgid "Discount (%)"
-msgstr ""
+msgstr "تخفیف (٪)"
 
 msgctxt "QuoteItem.fields"
 msgid "Amount (Converted)"
-msgstr ""
+msgstr "‫قیمت(تبدیل شده"
 
 msgctxt "QuoteItem.fields"
 msgid "Unit Price (Converted)"
-msgstr ""
+msgstr "‫واحد قیمت(تبدیل شده"
 
 msgctxt "QuoteItem.fields"
 msgid "List Price (Converted)"
-msgstr ""
+msgstr "لیست قیمت(تبدیل شده)"
 
 msgctxt "QuoteItem.fields"
 msgid "Account"
-msgstr ""
+msgstr "سازمان"
 
 msgctxt "QuoteItem.fields"
 msgid "Quote Status"
-msgstr ""
+msgstr "وضعیت"
 
 msgctxt "QuoteItem.links"
 msgid "Quote"
-msgstr ""
+msgstr "فاکتور"
 
 msgctxt "QuoteItem.links"
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 msgctxt "QuoteItem.links"
 msgid "Account"
-msgstr ""
+msgstr "سازمان"
 
 msgctxt "QuoteItem.labels"
 msgid "Quotes"
-msgstr ""
+msgstr "فاکتورها"
 
 msgctxt "ShippingProvider.labels"
 msgid "Create Shipping Provider"
-msgstr ""
+msgstr "ارائه دهنده حمل و نقل"
 
 msgctxt "ShippingProvider.fields"
 msgid "Website"
-msgstr ""
+msgstr "وب سایت"
 
 msgctxt "Tax.labels"
 msgid "Create Tax"
-msgstr ""
+msgstr "ایجاد مالیات"
 
 msgctxt "Tax.fields"
 msgid "Rate"
-msgstr ""
+msgstr "نرخ"
