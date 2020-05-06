@@ -63,123 +63,123 @@ msgstr ""
 
 msgctxt "Admin.templates"
 msgid "Report Grid-1"
-msgstr ""
+msgstr "گزارش شبکه طرح ۱"
 
 msgctxt "Admin.templates"
 msgid "Report Grid-2"
-msgstr ""
+msgstr "‫گزارش شبکه طرح ۲"
 
 msgctxt "Admin.templates"
 msgid "Report List"
-msgstr ""
+msgstr "لیست گزارش"
 
 msgctxt "BpmnFlowNode.fields"
 msgid "Status"
-msgstr ""
+msgstr "وضعیت"
 
 msgctxt "BpmnFlowNode.fields"
 msgid "Processed At"
-msgstr ""
+msgstr "پردازش شده در"
 
 msgctxt "BpmnFlowNode.fields"
 msgid "Element Type"
-msgstr ""
+msgstr "نوع المنت"
 
 msgctxt "BpmnFlowNode.fields"
 msgid "Element"
-msgstr ""
+msgstr " المنت"
 
 msgctxt "BpmnFlowNode.options.status"
 msgid "Created"
-msgstr ""
+msgstr "ایجاد شد"
 
 msgctxt "BpmnFlowNode.options.status"
 msgid "Pending"
-msgstr ""
+msgstr "در انتظار"
 
 msgctxt "BpmnFlowNode.options.status"
 msgid "In Process"
-msgstr ""
+msgstr "در جریان"
 
 msgctxt "BpmnFlowNode.options.status"
 msgid "Processed"
-msgstr ""
+msgstr "پردازش شده"
 
 msgctxt "BpmnFlowNode.options.status"
 msgid "Rejected"
-msgstr ""
+msgstr "رد شد"
 
 msgctxt "BpmnFlowNode.options.status"
 msgid "Failed"
-msgstr ""
+msgstr "اموفق"
 
 msgctxt "BpmnFlowchart.labels"
 msgid "Create Flowchart"
-msgstr ""
+msgstr "ایجاد فلوچارت"
 
 msgctxt "BpmnFlowchart.labels"
 msgid "Hand tool"
-msgstr ""
+msgstr "ابزار دستی"
 
 msgctxt "BpmnFlowchart.labels"
 msgid "Create Event tool"
-msgstr ""
+msgstr "ایجاد رویداد"
 
 msgctxt "BpmnFlowchart.labels"
 msgid "Create Activity tool"
-msgstr ""
+msgstr "ایجاد فعالیت"
 
 msgctxt "BpmnFlowchart.labels"
 msgid "Connect tool"
-msgstr ""
+msgstr "ابزار اتصال"
 
 msgctxt "BpmnFlowchart.labels"
 msgid "Erase tool"
-msgstr ""
+msgstr "پاک کردن ابزار"
 
 msgctxt "BpmnFlowchart.labels"
 msgid "Full Screen"
-msgstr ""
+msgstr "تمام صفحه"
 
 msgctxt "BpmnFlowchart.labels"
 msgid "Processes"
-msgstr ""
+msgstr "عملیات"
 
 msgctxt "BpmnFlowchart.labels"
 msgid "Data"
-msgstr ""
+msgstr "داده"
 
 msgctxt "BpmnFlowchart.fields"
 msgid "Is Active"
-msgstr ""
+msgstr "عال است"
 
 msgctxt "BpmnFlowchart.fields"
 msgid "Target Entity Type"
-msgstr ""
+msgstr "نوع شخصیت هدف"
 
 msgctxt "BpmnFlowchart.fields"
 msgid "Has Start Event of None type"
-msgstr ""
+msgstr "رویداد از نوع None را شروع کرده است"
 
 msgctxt "BpmnFlowchart.links"
 msgid "Processes"
-msgstr ""
+msgstr "مراحل"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Conditional Start Event"
-msgstr ""
+msgstr "شرط شروع رویداد"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Timer Start Event"
-msgstr ""
+msgstr "زمان شروع رویداد"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Start Event"
-msgstr ""
+msgstr "شروع رویداد"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Timer Intermediate Event (Catching)"
-msgstr ""
+msgstr "زمان حدوسط رویداد(Catching)"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Conditional Intermediate Event (Catching)"
@@ -187,31 +187,31 @@ msgstr ""
 
 msgctxt "BpmnFlowchart.elements"
 msgid "End Event"
-msgstr ""
+msgstr "پایان رویداد"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Terminate End Event"
-msgstr ""
+msgstr "پایان رویداد"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Exclusive Gateway"
-msgstr ""
+msgstr "دروازه اختصاصی"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Inclusive Gateway"
-msgstr ""
+msgstr "دروازه فراگیر"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Parallel Gateway"
-msgstr ""
+msgstr "دروازه موازی"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Event Based Gateway"
-msgstr ""
+msgstr "دروازه مبتنی بر رویداد"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Send Message Task"
-msgstr ""
+msgstr "ارسال پیام وظیفه"
 
 msgctxt "BpmnFlowchart.elements"
 msgid "Script Task"
@@ -728,43 +728,43 @@ msgstr ""
 
 msgctxt "DashletOptions.fields"
 msgid "Report"
-msgstr ""
+msgstr "گزارش"
 
 msgctxt "DashletOptions.fields"
 msgid "Summation Column"
-msgstr ""
+msgstr "ستون جمع بندی"
 
 msgctxt "DashletOptions.fields"
 msgid "Display Only Total"
-msgstr ""
+msgstr "نمایش تعداد کل"
 
 msgctxt "DashletOptions.fields"
 msgid "Display Total"
-msgstr ""
+msgstr "‫نمایش کل"
 
 msgctxt "Global.scopeNames"
 msgid "Workflow"
-msgstr ""
+msgstr "گردش‌کار"
 
 msgctxt "Global.scopeNames"
 msgid "Report"
-msgstr ""
+msgstr "گزارش"
 
 msgctxt "Global.scopeNames"
 msgid "Report Category"
-msgstr ""
+msgstr "دسته‌بندی گزارشات"
 
 msgctxt "Global.scopeNames"
 msgid "Workflow Log Record"
-msgstr ""
+msgstr "گزارش کردش‌کار"
 
 msgctxt "Global.scopeNames"
 msgid "Process Flowchart"
-msgstr ""
+msgstr "نمودار جریان فرآیند"
 
 msgctxt "Global.scopeNames"
 msgid "Process"
-msgstr ""
+msgstr "فرایند"
 
 msgctxt "Global.scopeNames"
 msgid "Process User Task"
@@ -772,99 +772,99 @@ msgstr ""
 
 msgctxt "Global.scopeNames"
 msgid "Report Filter"
-msgstr ""
+msgstr "فیلتر‌ گزارش"
 
 msgctxt "Global.scopeNames"
 msgid "Report Panel"
-msgstr ""
+msgstr "پنل گزارش"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Workflows"
-msgstr ""
+msgstr "گردش‌کار"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Reports"
-msgstr ""
+msgstr "گزارشات"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Report Categories"
-msgstr ""
+msgstr "دسته‌بندی"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Workflows Log"
-msgstr ""
+msgstr "لاگ گردش کار"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Process Flowcharts"
-msgstr ""
+msgstr "فرایند فلوچارت"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Processes"
-msgstr ""
+msgstr "فرایند‌ها"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Process User Tasks"
-msgstr ""
+msgstr "پردازش وظایف کاربر"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Report Filters"
-msgstr ""
+msgstr "فیلترهای گزارشات"
 
 msgctxt "Global.scopeNamesPlural"
 msgid "Report Panels"
-msgstr ""
+msgstr "پنل‌های گزارشات"
 
 msgctxt "Global.dashlets"
 msgid "Report"
-msgstr ""
+msgstr "گزارش"
 
 msgctxt "Global.dashlets"
 msgid "Process User Tasks"
-msgstr ""
+msgstr "پردازش وظایف کاربر"
 
 msgctxt "Report.labels"
 msgid "Create Report"
-msgstr ""
+msgstr "ایجاد گزارش"
 
 msgctxt "Report.labels"
 msgid "Run"
-msgstr ""
+msgstr "اجرا کن"
 
 msgctxt "Report.labels"
 msgid "Total"
-msgstr ""
+msgstr "مجموع"
 
 msgctxt "Report.labels"
 msgid "-Empty-"
-msgstr ""
+msgstr "خالی"
 
 msgctxt "Report.labels"
 msgid "Parameters"
-msgstr ""
+msgstr "پارامترها"
 
 msgctxt "Report.labels"
 msgid "Filters"
-msgstr ""
+msgstr "فیلترها"
 
 msgctxt "Report.labels"
 msgid "Chart"
-msgstr ""
+msgstr "نمودار"
 
 msgctxt "Report.labels"
 msgid "List Report"
-msgstr ""
+msgstr "لیست گزارشی"
 
 msgctxt "Report.labels"
 msgid "Grid Report"
-msgstr ""
+msgstr "گزارش شبکه"
 
 msgctxt "Report.labels"
 msgid "days"
-msgstr ""
+msgstr "روزها"
 
 msgctxt "Report.labels"
 msgid "never"
-msgstr ""
+msgstr "هرگز"
 
 msgctxt "Report.labels"
 msgid "Get Csv"
@@ -872,15 +872,15 @@ msgstr ""
 
 msgctxt "Report.labels"
 msgid "Email Sending"
-msgstr ""
+msgstr "ارسال ایمیل"
 
 msgctxt "Report.labels"
 msgid "View Report"
-msgstr ""
+msgstr "مشاهده گزارش"
 
 msgctxt "Report.labels"
 msgid "Report"
-msgstr ""
+msgstr "گزارش"
 
 msgctxt "Report.labels"
 msgid "AND"
@@ -924,11 +924,11 @@ msgstr ""
 
 msgctxt "Report.labels"
 msgid "Columns"
-msgstr ""
+msgstr "ستون ها"
 
 msgctxt "Report.labels"
 msgid "Send Email"
-msgstr ""
+msgstr "ارسال ایمیل"
 
 msgctxt "Report.fields"
 msgid "Type"
@@ -1534,11 +1534,11 @@ msgstr ""
 
 msgctxt "Workflow.fields"
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 msgctxt "Workflow.fields"
 msgid "Target Entity"
-msgstr ""
+msgstr "هدف موجودیت"
 
 msgctxt "Workflow.fields"
 msgid "Trigger Type"
@@ -2101,15 +2101,15 @@ msgstr ""
 
 msgctxt "Account.fields"
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 msgctxt "Account.fields"
 msgid "Email"
-msgstr ""
+msgstr "ایمیل"
 
 msgctxt "Account.fields"
 msgid "Website"
-msgstr ""
+msgstr "وب سایت"
 
 msgctxt "Account.fields"
 msgid "Phone"
